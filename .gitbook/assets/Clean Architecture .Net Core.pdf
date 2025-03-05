@@ -1,0 +1,5306 @@
+%PDF-1.3
+%ÿÿÿÿ
+9 0 obj
+<<
+/Type /ExtGState
+/ca 1
+>>
+endobj
+8 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 6 0 R
+/Resources 7 0 R
+/UserUnit 1
+>>
+endobj
+7 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+14 0 obj
+<<
+/S /URI
+/URI (https://storm.genie.stanford.edu/article/716512)
+>>
+endobj
+15 0 obj
+<<
+/Subtype /Link
+/A 14 0 R
+/Type /Annot
+/Rect [83.288 476.290002 372.276 493.090002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+16 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@DrunknCode/clean-architecture-simplified-and-in-depth-guide-026333c54454)
+>>
+endobj
+17 0 obj
+<<
+/Subtype /Link
+/A 16 0 R
+/Type /Annot
+/Rect [421.5 192.090045 425.392 208.890045]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+18 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@DrunknCode/clean-architecture-simplified-and-in-depth-guide-026333c54454)
+>>
+endobj
+19 0 obj
+<<
+/Subtype /Link
+/A 18 0 R
+/Type /Annot
+/Rect [425.392 192.090045 433.176 208.890045]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+20 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@DrunknCode/clean-architecture-simplified-and-in-depth-guide-026333c54454)
+>>
+endobj
+21 0 obj
+<<
+/Subtype /Link
+/A 20 0 R
+/Type /Annot
+/Rect [433.176 192.090045 437.068 208.890045]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+22 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+23 0 obj
+<<
+/Subtype /Link
+/A 22 0 R
+/Type /Annot
+/Rect [437.068 192.090045 440.96 208.890045]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+24 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+25 0 obj
+<<
+/Subtype /Link
+/A 24 0 R
+/Type /Annot
+/Rect [440.96 192.090045 448.744 208.890045]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+26 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+27 0 obj
+<<
+/Subtype /Link
+/A 26 0 R
+/Type /Annot
+/Rect [448.744 192.090045 452.636 208.890045]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+28 0 obj
+<<
+/S /URI
+/URI (https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles)
+>>
+endobj
+29 0 obj
+<<
+/Subtype /Link
+/A 28 0 R
+/Type /Annot
+/Rect [452.636 192.090045 456.528 208.890045]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+30 0 obj
+<<
+/S /URI
+/URI (https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles)
+>>
+endobj
+31 0 obj
+<<
+/Subtype /Link
+/A 30 0 R
+/Type /Annot
+/Rect [456.528 192.090045 464.312 208.890045]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+32 0 obj
+<<
+/S /URI
+/URI (https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles)
+>>
+endobj
+33 0 obj
+<<
+/Subtype /Link
+/A 32 0 R
+/Type /Annot
+/Rect [464.312 192.090045 468.204 208.890045]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+34 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+35 0 obj
+<<
+/Subtype /Link
+/A 34 0 R
+/Type /Annot
+/Rect [236.281212 86.290063 240.173212 103.090063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+36 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+37 0 obj
+<<
+/Subtype /Link
+/A 36 0 R
+/Type /Annot
+/Rect [240.173212 86.290063 247.957212 103.090063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+38 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+39 0 obj
+<<
+/Subtype /Link
+/A 38 0 R
+/Type /Annot
+/Rect [247.957212 86.290063 251.849212 103.090063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+40 0 obj
+<<
+/S /URI
+/URI (https://www.techtarget.com/searchapparchitecture/tip/A-primer-on-the-clean-architecture-pattern-and-its-principles)
+>>
+endobj
+41 0 obj
+<<
+/Subtype /Link
+/A 40 0 R
+/Type /Annot
+/Rect [251.849212 86.290063 255.741212 103.090063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+42 0 obj
+<<
+/S /URI
+/URI (https://www.techtarget.com/searchapparchitecture/tip/A-primer-on-the-clean-architecture-pattern-and-its-principles)
+>>
+endobj
+43 0 obj
+<<
+/Subtype /Link
+/A 42 0 R
+/Type /Annot
+/Rect [255.741212 86.290063 263.525212 103.090063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+44 0 obj
+<<
+/S /URI
+/URI (https://www.techtarget.com/searchapparchitecture/tip/A-primer-on-the-clean-architecture-pattern-and-its-principles)
+>>
+endobj
+45 0 obj
+<<
+/Subtype /Link
+/A 44 0 R
+/Type /Annot
+/Rect [263.525212 86.290063 267.417212 103.090063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+46 0 obj
+<<
+/S /URI
+/URI (https://medium.com/software-development-and-architecture/understanding-clean-architecture-a-guide-to-structured-software-design-8702b9831dc0)
+>>
+endobj
+47 0 obj
+<<
+/Subtype /Link
+/A 46 0 R
+/Type /Annot
+/Rect [267.417212 86.290063 271.309212 103.090063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+48 0 obj
+<<
+/S /URI
+/URI (https://medium.com/software-development-and-architecture/understanding-clean-architecture-a-guide-to-structured-software-design-8702b9831dc0)
+>>
+endobj
+49 0 obj
+<<
+/Subtype /Link
+/A 48 0 R
+/Type /Annot
+/Rect [271.309212 86.290063 279.093212 103.090063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+50 0 obj
+<<
+/S /URI
+/URI (https://medium.com/software-development-and-architecture/understanding-clean-architecture-a-guide-to-structured-software-design-8702b9831dc0)
+>>
+endobj
+51 0 obj
+<<
+/Subtype /Link
+/A 50 0 R
+/Type /Annot
+/Rect [279.093212 86.290063 282.903113 103.090063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+52 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+53 0 obj
+<<
+/Subtype /Link
+/A 52 0 R
+/Type /Annot
+/Rect [497.87 52.690063 501.762 69.490063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+54 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+55 0 obj
+<<
+/Subtype /Link
+/A 54 0 R
+/Type /Annot
+/Rect [501.762 52.690063 509.546 69.490063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+56 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+57 0 obj
+<<
+/Subtype /Link
+/A 56 0 R
+/Type /Annot
+/Rect [509.546 52.690063 513.438 69.490063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+58 0 obj
+<<
+/S /URI
+/URI (https://www.cmarix.com/blog/clean-architecture-net-core/)
+>>
+endobj
+59 0 obj
+<<
+/Subtype /Link
+/A 58 0 R
+/Type /Annot
+/Rect [513.438 52.690063 517.33 69.490063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+60 0 obj
+<<
+/S /URI
+/URI (https://www.cmarix.com/blog/clean-architecture-net-core/)
+>>
+endobj
+61 0 obj
+<<
+/Subtype /Link
+/A 60 0 R
+/Type /Annot
+/Rect [517.33 52.690063 525.114 69.490063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+62 0 obj
+<<
+/S /URI
+/URI (https://www.cmarix.com/blog/clean-architecture-net-core/)
+>>
+endobj
+63 0 obj
+<<
+/Subtype /Link
+/A 62 0 R
+/Type /Annot
+/Rect [525.114 52.690063 529.006 69.490063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+13 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 11 0 R
+/Resources 12 0 R
+/UserUnit 1
+/Annots [15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R]
+>>
+endobj
+12 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+67 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+68 0 obj
+<<
+/Subtype /Link
+/A 67 0 R
+/Type /Annot
+/Rect [350.926 678.890015 354.818 695.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+69 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+70 0 obj
+<<
+/Subtype /Link
+/A 69 0 R
+/Type /Annot
+/Rect [354.818 678.890015 362.602 695.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+71 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+72 0 obj
+<<
+/Subtype /Link
+/A 71 0 R
+/Type /Annot
+/Rect [362.602 678.890015 366.494 695.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+73 0 obj
+<<
+/S /URI
+/URI (https://blog.ndepend.com/clean-architecture-for-asp-net-core-solution/)
+>>
+endobj
+74 0 obj
+<<
+/Subtype /Link
+/A 73 0 R
+/Type /Annot
+/Rect [366.494 678.890015 370.386 695.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+75 0 obj
+<<
+/S /URI
+/URI (https://blog.ndepend.com/clean-architecture-for-asp-net-core-solution/)
+>>
+endobj
+76 0 obj
+<<
+/Subtype /Link
+/A 75 0 R
+/Type /Annot
+/Rect [370.386 678.890015 378.17 695.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+77 0 obj
+<<
+/S /URI
+/URI (https://blog.ndepend.com/clean-architecture-for-asp-net-core-solution/)
+>>
+endobj
+78 0 obj
+<<
+/Subtype /Link
+/A 77 0 R
+/Type /Annot
+/Rect [378.17 678.890015 382.062 695.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+79 0 obj
+<<
+/S /URI
+/URI (https://www.cmarix.com/blog/clean-architecture-net-core/)
+>>
+endobj
+80 0 obj
+<<
+/Subtype /Link
+/A 79 0 R
+/Type /Annot
+/Rect [225.416 573.090021 229.308 589.890021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+81 0 obj
+<<
+/S /URI
+/URI (https://www.cmarix.com/blog/clean-architecture-net-core/)
+>>
+endobj
+82 0 obj
+<<
+/Subtype /Link
+/A 81 0 R
+/Type /Annot
+/Rect [229.308 573.090021 237.092 589.890021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+83 0 obj
+<<
+/S /URI
+/URI (https://www.cmarix.com/blog/clean-architecture-net-core/)
+>>
+endobj
+84 0 obj
+<<
+/Subtype /Link
+/A 83 0 R
+/Type /Annot
+/Rect [237.092 573.090021 240.984 589.890021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+85 0 obj
+<<
+/S /URI
+/URI (https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles)
+>>
+endobj
+86 0 obj
+<<
+/Subtype /Link
+/A 85 0 R
+/Type /Annot
+/Rect [240.984 573.090021 244.876 589.890021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+87 0 obj
+<<
+/S /URI
+/URI (https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles)
+>>
+endobj
+88 0 obj
+<<
+/Subtype /Link
+/A 87 0 R
+/Type /Annot
+/Rect [244.876 573.090021 252.66 589.890021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+89 0 obj
+<<
+/S /URI
+/URI (https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles)
+>>
+endobj
+90 0 obj
+<<
+/Subtype /Link
+/A 89 0 R
+/Type /Annot
+/Rect [252.66 573.090021 256.552 589.890021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+91 0 obj
+<<
+/S /URI
+/URI (https://bitloops.com/docs/bitloops-language/learning/software-architecture/clean-architecture)
+>>
+endobj
+92 0 obj
+<<
+/Subtype /Link
+/A 91 0 R
+/Type /Annot
+/Rect [256.552 573.090021 260.444 589.890021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+93 0 obj
+<<
+/S /URI
+/URI (https://bitloops.com/docs/bitloops-language/learning/software-architecture/clean-architecture)
+>>
+endobj
+94 0 obj
+<<
+/Subtype /Link
+/A 93 0 R
+/Type /Annot
+/Rect [260.444 573.090021 268.228 589.890021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+95 0 obj
+<<
+/S /URI
+/URI (https://bitloops.com/docs/bitloops-language/learning/software-architecture/clean-architecture)
+>>
+endobj
+96 0 obj
+<<
+/Subtype /Link
+/A 95 0 R
+/Type /Annot
+/Rect [268.228 573.090021 272.12 589.890021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+97 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@DrunknCode/clean-architecture-simplified-and-in-depth-guide-026333c54454)
+>>
+endobj
+98 0 obj
+<<
+/Subtype /Link
+/A 97 0 R
+/Type /Annot
+/Rect [233.816 373.890015 237.708 390.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+99 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@DrunknCode/clean-architecture-simplified-and-in-depth-guide-026333c54454)
+>>
+endobj
+100 0 obj
+<<
+/Subtype /Link
+/A 99 0 R
+/Type /Annot
+/Rect [237.708 373.890015 245.492 390.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+101 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@DrunknCode/clean-architecture-simplified-and-in-depth-guide-026333c54454)
+>>
+endobj
+102 0 obj
+<<
+/Subtype /Link
+/A 101 0 R
+/Type /Annot
+/Rect [245.492 373.890015 249.384 390.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+103 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+104 0 obj
+<<
+/Subtype /Link
+/A 103 0 R
+/Type /Annot
+/Rect [119.044912 226.090015 122.936912 242.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+105 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+106 0 obj
+<<
+/Subtype /Link
+/A 105 0 R
+/Type /Annot
+/Rect [122.936912 226.090015 130.720912 242.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+107 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+108 0 obj
+<<
+/Subtype /Link
+/A 107 0 R
+/Type /Annot
+/Rect [130.720912 226.090015 134.612912 242.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+109 0 obj
+<<
+/S /URI
+/URI (https://www.techtarget.com/searchapparchitecture/tip/A-primer-on-the-clean-architecture-pattern-and-its-principles)
+>>
+endobj
+110 0 obj
+<<
+/Subtype /Link
+/A 109 0 R
+/Type /Annot
+/Rect [134.612912 226.090015 138.504912 242.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+111 0 obj
+<<
+/S /URI
+/URI (https://www.techtarget.com/searchapparchitecture/tip/A-primer-on-the-clean-architecture-pattern-and-its-principles)
+>>
+endobj
+112 0 obj
+<<
+/Subtype /Link
+/A 111 0 R
+/Type /Annot
+/Rect [138.504912 226.090015 146.288912 242.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+113 0 obj
+<<
+/S /URI
+/URI (https://www.techtarget.com/searchapparchitecture/tip/A-primer-on-the-clean-architecture-pattern-and-its-principles)
+>>
+endobj
+114 0 obj
+<<
+/Subtype /Link
+/A 113 0 R
+/Type /Annot
+/Rect [146.288912 226.090015 150.180912 242.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+115 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+116 0 obj
+<<
+/Subtype /Link
+/A 115 0 R
+/Type /Annot
+/Rect [194.49 78.290027 198.382 95.090027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+117 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+118 0 obj
+<<
+/Subtype /Link
+/A 117 0 R
+/Type /Annot
+/Rect [198.382 78.290027 206.166 95.090027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+119 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+120 0 obj
+<<
+/Subtype /Link
+/A 119 0 R
+/Type /Annot
+/Rect [206.166 78.290027 210.058 95.090027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+121 0 obj
+<<
+/S /URI
+/URI (https://www.techtarget.com/searchapparchitecture/tip/A-primer-on-the-clean-architecture-pattern-and-its-principles)
+>>
+endobj
+122 0 obj
+<<
+/Subtype /Link
+/A 121 0 R
+/Type /Annot
+/Rect [210.058 78.290027 213.95 95.090027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+123 0 obj
+<<
+/S /URI
+/URI (https://www.techtarget.com/searchapparchitecture/tip/A-primer-on-the-clean-architecture-pattern-and-its-principles)
+>>
+endobj
+124 0 obj
+<<
+/Subtype /Link
+/A 123 0 R
+/Type /Annot
+/Rect [213.95 78.290027 221.734 95.090027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+125 0 obj
+<<
+/S /URI
+/URI (https://www.techtarget.com/searchapparchitecture/tip/A-primer-on-the-clean-architecture-pattern-and-its-principles)
+>>
+endobj
+126 0 obj
+<<
+/Subtype /Link
+/A 125 0 R
+/Type /Annot
+/Rect [221.734 78.290027 225.626 95.090027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+66 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 64 0 R
+/Resources 65 0 R
+/UserUnit 1
+/Annots [68 0 R 70 0 R 72 0 R 74 0 R 76 0 R 78 0 R 80 0 R 82 0 R 84 0 R 86 0 R 88 0 R 90 0 R 92 0 R 94 0 R 96 0 R 98 0 R 100 0 R 102 0 R 104 0 R 106 0 R 108 0 R 110 0 R 112 0 R 114 0 R 116 0 R 118 0 R 120 0 R 122 0 R 124 0 R 126 0 R]
+>>
+endobj
+65 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+130 0 obj
+<<
+/S /URI
+/URI (https://positiwise.com/blog/clean-architecture-net-core)
+>>
+endobj
+131 0 obj
+<<
+/Subtype /Link
+/A 130 0 R
+/Type /Annot
+/Rect [185.922 724.290015 189.814 741.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+132 0 obj
+<<
+/S /URI
+/URI (https://positiwise.com/blog/clean-architecture-net-core)
+>>
+endobj
+133 0 obj
+<<
+/Subtype /Link
+/A 132 0 R
+/Type /Annot
+/Rect [189.814 724.290015 197.598 741.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+134 0 obj
+<<
+/S /URI
+/URI (https://positiwise.com/blog/clean-architecture-net-core)
+>>
+endobj
+135 0 obj
+<<
+/Subtype /Link
+/A 134 0 R
+/Type /Annot
+/Rect [197.598 724.290015 201.49 741.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+136 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+137 0 obj
+<<
+/Subtype /Link
+/A 136 0 R
+/Type /Annot
+/Rect [201.49 724.290015 205.382 741.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+138 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+139 0 obj
+<<
+/Subtype /Link
+/A 138 0 R
+/Type /Annot
+/Rect [205.382 724.290015 213.166 741.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+140 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+141 0 obj
+<<
+/Subtype /Link
+/A 140 0 R
+/Type /Annot
+/Rect [213.166 724.290015 217.058 741.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+142 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@DrunknCode/clean-architecture-simplified-and-in-depth-guide-026333c54454)
+>>
+endobj
+143 0 obj
+<<
+/Subtype /Link
+/A 142 0 R
+/Type /Annot
+/Rect [177.055507 610.090015 180.947507 626.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+144 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@DrunknCode/clean-architecture-simplified-and-in-depth-guide-026333c54454)
+>>
+endobj
+145 0 obj
+<<
+/Subtype /Link
+/A 144 0 R
+/Type /Annot
+/Rect [180.947507 610.090015 188.731507 626.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+146 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@DrunknCode/clean-architecture-simplified-and-in-depth-guide-026333c54454)
+>>
+endobj
+147 0 obj
+<<
+/Subtype /Link
+/A 146 0 R
+/Type /Annot
+/Rect [188.731507 610.090015 192.623507 626.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+148 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+149 0 obj
+<<
+/Subtype /Link
+/A 148 0 R
+/Type /Annot
+/Rect [265.666 479.090015 269.558 495.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+150 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+151 0 obj
+<<
+/Subtype /Link
+/A 150 0 R
+/Type /Annot
+/Rect [269.558 479.090015 277.342 495.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+152 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+153 0 obj
+<<
+/Subtype /Link
+/A 152 0 R
+/Type /Annot
+/Rect [277.342 479.090015 281.234 495.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+154 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+155 0 obj
+<<
+/Subtype /Link
+/A 154 0 R
+/Type /Annot
+/Rect [375.062 364.890002 378.954 381.690002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+156 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+157 0 obj
+<<
+/Subtype /Link
+/A 156 0 R
+/Type /Annot
+/Rect [378.954 364.890002 386.738 381.690002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+158 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+159 0 obj
+<<
+/Subtype /Link
+/A 158 0 R
+/Type /Annot
+/Rect [386.738 364.890002 390.63 381.690002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+129 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 127 0 R
+/Resources 128 0 R
+/UserUnit 1
+/Annots [131 0 R 133 0 R 135 0 R 137 0 R 139 0 R 141 0 R 143 0 R 145 0 R 147 0 R 149 0 R 151 0 R 153 0 R 155 0 R 157 0 R 159 0 R]
+>>
+endobj
+128 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+163 0 obj
+<<
+/S /URI
+/URI (https://www.bytehide.com/blog/clean-architecture-net-core)
+>>
+endobj
+164 0 obj
+<<
+/Subtype /Link
+/A 163 0 R
+/Type /Annot
+/Rect [91.758 779.690015 95.65 796.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+165 0 obj
+<<
+/S /URI
+/URI (https://www.bytehide.com/blog/clean-architecture-net-core)
+>>
+endobj
+166 0 obj
+<<
+/Subtype /Link
+/A 165 0 R
+/Type /Annot
+/Rect [95.65 779.690015 111.218 796.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+167 0 obj
+<<
+/S /URI
+/URI (https://www.bytehide.com/blog/clean-architecture-net-core)
+>>
+endobj
+168 0 obj
+<<
+/Subtype /Link
+/A 167 0 R
+/Type /Annot
+/Rect [111.218 779.690015 115.11 796.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+169 0 obj
+<<
+/S /URI
+/URI (https://medium.com/software-development-and-architecture/understanding-clean-architecture-a-guide-to-structured-software-design-8702b9831dc0)
+>>
+endobj
+170 0 obj
+<<
+/Subtype /Link
+/A 169 0 R
+/Type /Annot
+/Rect [115.11 779.690015 119.002 796.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+171 0 obj
+<<
+/S /URI
+/URI (https://medium.com/software-development-and-architecture/understanding-clean-architecture-a-guide-to-structured-software-design-8702b9831dc0)
+>>
+endobj
+172 0 obj
+<<
+/Subtype /Link
+/A 171 0 R
+/Type /Annot
+/Rect [119.002 779.690015 126.786 796.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+173 0 obj
+<<
+/S /URI
+/URI (https://medium.com/software-development-and-architecture/understanding-clean-architecture-a-guide-to-structured-software-design-8702b9831dc0)
+>>
+endobj
+174 0 obj
+<<
+/Subtype /Link
+/A 173 0 R
+/Type /Annot
+/Rect [126.786 779.690015 130.678 796.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+175 0 obj
+<<
+/S /URI
+/URI (https://www.cmarix.com/blog/clean-architecture-net-core/)
+>>
+endobj
+176 0 obj
+<<
+/Subtype /Link
+/A 175 0 R
+/Type /Annot
+/Rect [66.446 615.090016 70.338 631.890016]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+177 0 obj
+<<
+/S /URI
+/URI (https://www.cmarix.com/blog/clean-architecture-net-core/)
+>>
+endobj
+178 0 obj
+<<
+/Subtype /Link
+/A 177 0 R
+/Type /Annot
+/Rect [70.338 615.090016 78.122 631.890016]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+179 0 obj
+<<
+/S /URI
+/URI (https://www.cmarix.com/blog/clean-architecture-net-core/)
+>>
+endobj
+180 0 obj
+<<
+/Subtype /Link
+/A 179 0 R
+/Type /Annot
+/Rect [78.122 615.090016 82.014 631.890016]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+181 0 obj
+<<
+/S /URI
+/URI (https://positiwise.com/blog/clean-architecture-net-core)
+>>
+endobj
+182 0 obj
+<<
+/Subtype /Link
+/A 181 0 R
+/Type /Annot
+/Rect [82.014 615.090016 85.906 631.890016]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+183 0 obj
+<<
+/S /URI
+/URI (https://positiwise.com/blog/clean-architecture-net-core)
+>>
+endobj
+184 0 obj
+<<
+/Subtype /Link
+/A 183 0 R
+/Type /Annot
+/Rect [85.906 615.090016 93.69 631.890016]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+185 0 obj
+<<
+/S /URI
+/URI (https://positiwise.com/blog/clean-architecture-net-core)
+>>
+endobj
+186 0 obj
+<<
+/Subtype /Link
+/A 185 0 R
+/Type /Annot
+/Rect [93.69 615.090016 97.582 631.890016]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+187 0 obj
+<<
+/S /URI
+/URI (https://positiwise.com/blog/clean-architecture-net-core)
+>>
+endobj
+188 0 obj
+<<
+/Subtype /Link
+/A 187 0 R
+/Type /Annot
+/Rect [164.054 450.490018 167.946 467.290018]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+189 0 obj
+<<
+/S /URI
+/URI (https://positiwise.com/blog/clean-architecture-net-core)
+>>
+endobj
+190 0 obj
+<<
+/Subtype /Link
+/A 189 0 R
+/Type /Annot
+/Rect [167.946 450.490018 175.73 467.290018]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+191 0 obj
+<<
+/S /URI
+/URI (https://positiwise.com/blog/clean-architecture-net-core)
+>>
+endobj
+192 0 obj
+<<
+/Subtype /Link
+/A 191 0 R
+/Type /Annot
+/Rect [175.73 450.490018 179.622 467.290018]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+193 0 obj
+<<
+/S /URI
+/URI (https://www.bytehide.com/blog/clean-architecture-net-core)
+>>
+endobj
+194 0 obj
+<<
+/Subtype /Link
+/A 193 0 R
+/Type /Annot
+/Rect [179.622 450.490018 183.514 467.290018]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+195 0 obj
+<<
+/S /URI
+/URI (https://www.bytehide.com/blog/clean-architecture-net-core)
+>>
+endobj
+196 0 obj
+<<
+/Subtype /Link
+/A 195 0 R
+/Type /Annot
+/Rect [183.514 450.490018 199.082 467.290018]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+197 0 obj
+<<
+/S /URI
+/URI (https://www.bytehide.com/blog/clean-architecture-net-core)
+>>
+endobj
+198 0 obj
+<<
+/Subtype /Link
+/A 197 0 R
+/Type /Annot
+/Rect [199.082 450.490018 202.974 467.290018]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+199 0 obj
+<<
+/S /URI
+/URI (https://www.bytehide.com/blog/clean-architecture-net-core)
+>>
+endobj
+200 0 obj
+<<
+/Subtype /Link
+/A 199 0 R
+/Type /Annot
+/Rect [453.294 285.890027 457.186 302.690027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+201 0 obj
+<<
+/S /URI
+/URI (https://www.bytehide.com/blog/clean-architecture-net-core)
+>>
+endobj
+202 0 obj
+<<
+/Subtype /Link
+/A 201 0 R
+/Type /Annot
+/Rect [457.186 285.890027 472.754 302.690027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+203 0 obj
+<<
+/S /URI
+/URI (https://www.bytehide.com/blog/clean-architecture-net-core)
+>>
+endobj
+204 0 obj
+<<
+/Subtype /Link
+/A 203 0 R
+/Type /Annot
+/Rect [472.754 285.890027 476.646 302.690027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+205 0 obj
+<<
+/S /URI
+/URI (https://medium.com/software-development-and-architecture/understanding-clean-architecture-a-guide-to-structured-software-design-8702b9831dc0)
+>>
+endobj
+206 0 obj
+<<
+/Subtype /Link
+/A 205 0 R
+/Type /Annot
+/Rect [476.646 285.890027 480.538 302.690027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+207 0 obj
+<<
+/S /URI
+/URI (https://medium.com/software-development-and-architecture/understanding-clean-architecture-a-guide-to-structured-software-design-8702b9831dc0)
+>>
+endobj
+208 0 obj
+<<
+/Subtype /Link
+/A 207 0 R
+/Type /Annot
+/Rect [480.538 285.890027 488.322 302.690027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+209 0 obj
+<<
+/S /URI
+/URI (https://medium.com/software-development-and-architecture/understanding-clean-architecture-a-guide-to-structured-software-design-8702b9831dc0)
+>>
+endobj
+210 0 obj
+<<
+/Subtype /Link
+/A 209 0 R
+/Type /Annot
+/Rect [488.322 285.890027 492.214 302.690027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+211 0 obj
+<<
+/S /URI
+/URI (https://www.concettolabs.com/blog/clean-architecture-net-core/)
+>>
+endobj
+212 0 obj
+<<
+/Subtype /Link
+/A 211 0 R
+/Type /Annot
+/Rect [92.92 196.890051 96.812 213.690051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+213 0 obj
+<<
+/S /URI
+/URI (https://www.concettolabs.com/blog/clean-architecture-net-core/)
+>>
+endobj
+214 0 obj
+<<
+/Subtype /Link
+/A 213 0 R
+/Type /Annot
+/Rect [96.812 196.890051 112.38 213.690051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+215 0 obj
+<<
+/S /URI
+/URI (https://www.concettolabs.com/blog/clean-architecture-net-core/)
+>>
+endobj
+216 0 obj
+<<
+/Subtype /Link
+/A 215 0 R
+/Type /Annot
+/Rect [112.38 196.890051 116.272 213.690051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+217 0 obj
+<<
+/S /URI
+/URI (https://www.cmarix.com/blog/clean-architecture-net-core/)
+>>
+endobj
+218 0 obj
+<<
+/Subtype /Link
+/A 217 0 R
+/Type /Annot
+/Rect [116.272 196.890051 120.164 213.690051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+219 0 obj
+<<
+/S /URI
+/URI (https://www.cmarix.com/blog/clean-architecture-net-core/)
+>>
+endobj
+220 0 obj
+<<
+/Subtype /Link
+/A 219 0 R
+/Type /Annot
+/Rect [120.164 196.890051 127.948 213.690051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+221 0 obj
+<<
+/S /URI
+/URI (https://www.cmarix.com/blog/clean-architecture-net-core/)
+>>
+endobj
+222 0 obj
+<<
+/Subtype /Link
+/A 221 0 R
+/Type /Annot
+/Rect [127.948 196.890051 131.84 213.690051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+162 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 160 0 R
+/Resources 161 0 R
+/UserUnit 1
+/Annots [164 0 R 166 0 R 168 0 R 170 0 R 172 0 R 174 0 R 176 0 R 178 0 R 180 0 R 182 0 R 184 0 R 186 0 R 188 0 R 190 0 R 192 0 R 194 0 R 196 0 R 198 0 R 200 0 R 202 0 R 204 0 R 206 0 R 208 0 R 210 0 R 212 0 R 214 0 R 216 0 R 218 0 R 220 0 R 222 0 R]
+>>
+endobj
+161 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+226 0 obj
+<<
+/S /URI
+/URI (https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles)
+>>
+endobj
+227 0 obj
+<<
+/Subtype /Link
+/A 226 0 R
+/Type /Annot
+/Rect [424.342 796.490015 428.234 813.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+228 0 obj
+<<
+/S /URI
+/URI (https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles)
+>>
+endobj
+229 0 obj
+<<
+/Subtype /Link
+/A 228 0 R
+/Type /Annot
+/Rect [428.234 796.490015 436.018 813.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+230 0 obj
+<<
+/S /URI
+/URI (https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles)
+>>
+endobj
+231 0 obj
+<<
+/Subtype /Link
+/A 230 0 R
+/Type /Annot
+/Rect [436.018 796.490015 439.91 813.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+232 0 obj
+<<
+/S /URI
+/URI (https://medium.com/software-development-and-architecture/understanding-clean-architecture-a-guide-to-structured-software-design-8702b9831dc0)
+>>
+endobj
+233 0 obj
+<<
+/Subtype /Link
+/A 232 0 R
+/Type /Annot
+/Rect [439.91 796.490015 443.802 813.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+234 0 obj
+<<
+/S /URI
+/URI (https://medium.com/software-development-and-architecture/understanding-clean-architecture-a-guide-to-structured-software-design-8702b9831dc0)
+>>
+endobj
+235 0 obj
+<<
+/Subtype /Link
+/A 234 0 R
+/Type /Annot
+/Rect [443.802 796.490015 451.586 813.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+236 0 obj
+<<
+/S /URI
+/URI (https://medium.com/software-development-and-architecture/understanding-clean-architecture-a-guide-to-structured-software-design-8702b9831dc0)
+>>
+endobj
+237 0 obj
+<<
+/Subtype /Link
+/A 236 0 R
+/Type /Annot
+/Rect [451.586 796.490015 455.478 813.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+238 0 obj
+<<
+/S /URI
+/URI (https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles)
+>>
+endobj
+239 0 obj
+<<
+/Subtype /Link
+/A 238 0 R
+/Type /Annot
+/Rect [156.802 762.890015 160.694 779.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+240 0 obj
+<<
+/S /URI
+/URI (https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles)
+>>
+endobj
+241 0 obj
+<<
+/Subtype /Link
+/A 240 0 R
+/Type /Annot
+/Rect [160.694 762.890015 168.478 779.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+242 0 obj
+<<
+/S /URI
+/URI (https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles)
+>>
+endobj
+243 0 obj
+<<
+/Subtype /Link
+/A 242 0 R
+/Type /Annot
+/Rect [168.478 762.890015 172.37 779.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+244 0 obj
+<<
+/S /URI
+/URI (https://medium.com/software-development-and-architecture/understanding-clean-architecture-a-guide-to-structured-software-design-8702b9831dc0)
+>>
+endobj
+245 0 obj
+<<
+/Subtype /Link
+/A 244 0 R
+/Type /Annot
+/Rect [142.354 631.890013 146.246 648.690013]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+246 0 obj
+<<
+/S /URI
+/URI (https://medium.com/software-development-and-architecture/understanding-clean-architecture-a-guide-to-structured-software-design-8702b9831dc0)
+>>
+endobj
+247 0 obj
+<<
+/Subtype /Link
+/A 246 0 R
+/Type /Annot
+/Rect [146.246 631.890013 154.03 648.690013]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+248 0 obj
+<<
+/S /URI
+/URI (https://medium.com/software-development-and-architecture/understanding-clean-architecture-a-guide-to-structured-software-design-8702b9831dc0)
+>>
+endobj
+249 0 obj
+<<
+/Subtype /Link
+/A 248 0 R
+/Type /Annot
+/Rect [154.03 631.890013 157.922 648.690013]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+250 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@kamlesh90/clean-architecture-net-core-all-you-need-to-know-2fb441364b15)
+>>
+endobj
+251 0 obj
+<<
+/Subtype /Link
+/A 250 0 R
+/Type /Annot
+/Rect [157.922 631.890013 161.814 648.690013]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+252 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@kamlesh90/clean-architecture-net-core-all-you-need-to-know-2fb441364b15)
+>>
+endobj
+253 0 obj
+<<
+/Subtype /Link
+/A 252 0 R
+/Type /Annot
+/Rect [161.814 631.890013 177.382 648.690013]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+254 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@kamlesh90/clean-architecture-net-core-all-you-need-to-know-2fb441364b15)
+>>
+endobj
+255 0 obj
+<<
+/Subtype /Link
+/A 254 0 R
+/Type /Annot
+/Rect [177.382 631.890013 181.274 648.690013]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+256 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@kamlesh90/clean-architecture-net-core-all-you-need-to-know-2fb441364b15)
+>>
+endobj
+257 0 obj
+<<
+/Subtype /Link
+/A 256 0 R
+/Type /Annot
+/Rect [322.8 512.690015 326.692 529.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+258 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@kamlesh90/clean-architecture-net-core-all-you-need-to-know-2fb441364b15)
+>>
+endobj
+259 0 obj
+<<
+/Subtype /Link
+/A 258 0 R
+/Type /Annot
+/Rect [326.692 512.690015 342.26 529.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+260 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@kamlesh90/clean-architecture-net-core-all-you-need-to-know-2fb441364b15)
+>>
+endobj
+261 0 obj
+<<
+/Subtype /Link
+/A 260 0 R
+/Type /Annot
+/Rect [342.26 512.690015 346.152 529.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+262 0 obj
+<<
+/S /URI
+/URI (https://www.linkedin.com/pulse/embracing-clean-architecture-net-core-comprehensive-guide-h2a6f)
+>>
+endobj
+263 0 obj
+<<
+/Subtype /Link
+/A 262 0 R
+/Type /Annot
+/Rect [398.946 457.290016 402.838 474.090016]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+264 0 obj
+<<
+/S /URI
+/URI (https://www.linkedin.com/pulse/embracing-clean-architecture-net-core-comprehensive-guide-h2a6f)
+>>
+endobj
+265 0 obj
+<<
+/Subtype /Link
+/A 264 0 R
+/Type /Annot
+/Rect [402.838 457.290016 418.406 474.090016]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+266 0 obj
+<<
+/S /URI
+/URI (https://www.linkedin.com/pulse/embracing-clean-architecture-net-core-comprehensive-guide-h2a6f)
+>>
+endobj
+267 0 obj
+<<
+/Subtype /Link
+/A 266 0 R
+/Type /Annot
+/Rect [418.406 457.290016 422.298 474.090016]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+268 0 obj
+<<
+/S /URI
+/URI (https://www.linkedin.com/pulse/exploring-clean-architecture-journey-ramin-sharifi-bns5f)
+>>
+endobj
+269 0 obj
+<<
+/Subtype /Link
+/A 268 0 R
+/Type /Annot
+/Rect [544.854 418.690015 554.346 435.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+270 0 obj
+<<
+/S /URI
+/URI (https://www.linkedin.com/pulse/exploring-clean-architecture-journey-ramin-sharifi-bns5f)
+>>
+endobj
+271 0 obj
+<<
+/Subtype /Link
+/A 270 0 R
+/Type /Annot
+/Rect [40 401.890015 55.568 418.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+272 0 obj
+<<
+/S /URI
+/URI (https://www.linkedin.com/pulse/exploring-clean-architecture-journey-ramin-sharifi-bns5f)
+>>
+endobj
+273 0 obj
+<<
+/Subtype /Link
+/A 272 0 R
+/Type /Annot
+/Rect [55.568 401.890015 59.46 418.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+274 0 obj
+<<
+/S /URI
+/URI (https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles)
+>>
+endobj
+275 0 obj
+<<
+/Subtype /Link
+/A 274 0 R
+/Type /Annot
+/Rect [197.178 363.290021 201.07 380.090021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+276 0 obj
+<<
+/S /URI
+/URI (https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles)
+>>
+endobj
+277 0 obj
+<<
+/Subtype /Link
+/A 276 0 R
+/Type /Annot
+/Rect [201.07 363.290021 208.854 380.090021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+278 0 obj
+<<
+/S /URI
+/URI (https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles)
+>>
+endobj
+279 0 obj
+<<
+/Subtype /Link
+/A 278 0 R
+/Type /Annot
+/Rect [208.854 363.290021 212.746 380.090021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+280 0 obj
+<<
+/S /URI
+/URI (https://elbshry.medium.com/clean-architecture-the-principles-and-benefits-660a0172563d)
+>>
+endobj
+281 0 obj
+<<
+/Subtype /Link
+/A 280 0 R
+/Type /Annot
+/Rect [415.564 324.690015 419.456 341.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+282 0 obj
+<<
+/S /URI
+/URI (https://elbshry.medium.com/clean-architecture-the-principles-and-benefits-660a0172563d)
+>>
+endobj
+283 0 obj
+<<
+/Subtype /Link
+/A 282 0 R
+/Type /Annot
+/Rect [419.456 324.690015 435.024 341.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+284 0 obj
+<<
+/S /URI
+/URI (https://elbshry.medium.com/clean-architecture-the-principles-and-benefits-660a0172563d)
+>>
+endobj
+285 0 obj
+<<
+/Subtype /Link
+/A 284 0 R
+/Type /Annot
+/Rect [435.024 324.690015 438.916 341.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+286 0 obj
+<<
+/S /URI
+/URI (https://www.linkedin.com/pulse/exploring-clean-architecture-journey-ramin-sharifi-bns5f)
+>>
+endobj
+287 0 obj
+<<
+/Subtype /Link
+/A 286 0 R
+/Type /Annot
+/Rect [385.002 227.290039 388.894 244.090039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+288 0 obj
+<<
+/S /URI
+/URI (https://www.linkedin.com/pulse/exploring-clean-architecture-journey-ramin-sharifi-bns5f)
+>>
+endobj
+289 0 obj
+<<
+/Subtype /Link
+/A 288 0 R
+/Type /Annot
+/Rect [388.894 227.290039 404.462 244.090039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+290 0 obj
+<<
+/S /URI
+/URI (https://www.linkedin.com/pulse/exploring-clean-architecture-journey-ramin-sharifi-bns5f)
+>>
+endobj
+291 0 obj
+<<
+/Subtype /Link
+/A 290 0 R
+/Type /Annot
+/Rect [404.462 227.290039 408.354 244.090039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+292 0 obj
+<<
+/S /URI
+/URI (https://www.linkedin.com/pulse/embracing-clean-architecture-net-core-comprehensive-guide-h2a6f)
+>>
+endobj
+293 0 obj
+<<
+/Subtype /Link
+/A 292 0 R
+/Type /Annot
+/Rect [408.354 227.290039 412.246 244.090039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+294 0 obj
+<<
+/S /URI
+/URI (https://www.linkedin.com/pulse/embracing-clean-architecture-net-core-comprehensive-guide-h2a6f)
+>>
+endobj
+295 0 obj
+<<
+/Subtype /Link
+/A 294 0 R
+/Type /Annot
+/Rect [412.246 227.290039 427.814 244.090039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+296 0 obj
+<<
+/S /URI
+/URI (https://www.linkedin.com/pulse/embracing-clean-architecture-net-core-comprehensive-guide-h2a6f)
+>>
+endobj
+297 0 obj
+<<
+/Subtype /Link
+/A 296 0 R
+/Type /Annot
+/Rect [427.814 227.290039 431.706 244.090039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+298 0 obj
+<<
+/S /URI
+/URI (https://www.linkedin.com/pulse/exploring-clean-architecture-journey-ramin-sharifi-bns5f)
+>>
+endobj
+299 0 obj
+<<
+/Subtype /Link
+/A 298 0 R
+/Type /Annot
+/Rect [137.328 176.890039 141.22 193.690039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+300 0 obj
+<<
+/S /URI
+/URI (https://www.linkedin.com/pulse/exploring-clean-architecture-journey-ramin-sharifi-bns5f)
+>>
+endobj
+301 0 obj
+<<
+/Subtype /Link
+/A 300 0 R
+/Type /Annot
+/Rect [141.22 176.890039 156.788 193.690039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+302 0 obj
+<<
+/S /URI
+/URI (https://www.linkedin.com/pulse/exploring-clean-architecture-journey-ramin-sharifi-bns5f)
+>>
+endobj
+303 0 obj
+<<
+/Subtype /Link
+/A 302 0 R
+/Type /Annot
+/Rect [156.788 176.890039 160.68 193.690039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+304 0 obj
+<<
+/S /URI
+/URI (https://www.linkedin.com/pulse/embracing-clean-architecture-net-core-comprehensive-guide-h2a6f)
+>>
+endobj
+305 0 obj
+<<
+/Subtype /Link
+/A 304 0 R
+/Type /Annot
+/Rect [505.892 91.290063 509.784 108.090063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+306 0 obj
+<<
+/S /URI
+/URI (https://www.linkedin.com/pulse/embracing-clean-architecture-net-core-comprehensive-guide-h2a6f)
+>>
+endobj
+307 0 obj
+<<
+/Subtype /Link
+/A 306 0 R
+/Type /Annot
+/Rect [509.784 91.290063 525.352 108.090063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+308 0 obj
+<<
+/S /URI
+/URI (https://www.linkedin.com/pulse/embracing-clean-architecture-net-core-comprehensive-guide-h2a6f)
+>>
+endobj
+309 0 obj
+<<
+/Subtype /Link
+/A 308 0 R
+/Type /Annot
+/Rect [525.352 91.290063 529.244 108.090063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+310 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@kamlesh90/clean-architecture-net-core-all-you-need-to-know-2fb441364b15)
+>>
+endobj
+311 0 obj
+<<
+/Subtype /Link
+/A 310 0 R
+/Type /Annot
+/Rect [283.306 52.690076 287.198 69.490076]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+312 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@kamlesh90/clean-architecture-net-core-all-you-need-to-know-2fb441364b15)
+>>
+endobj
+313 0 obj
+<<
+/Subtype /Link
+/A 312 0 R
+/Type /Annot
+/Rect [287.198 52.690076 302.766 69.490076]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+314 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@kamlesh90/clean-architecture-net-core-all-you-need-to-know-2fb441364b15)
+>>
+endobj
+315 0 obj
+<<
+/Subtype /Link
+/A 314 0 R
+/Type /Annot
+/Rect [302.766 52.690076 306.658 69.490076]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+225 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 223 0 R
+/Resources 224 0 R
+/UserUnit 1
+/Annots [227 0 R 229 0 R 231 0 R 233 0 R 235 0 R 237 0 R 239 0 R 241 0 R 243 0 R 245 0 R 247 0 R 249 0 R 251 0 R 253 0 R 255 0 R 257 0 R 259 0 R 261 0 R 263 0 R 265 0 R 267 0 R 269 0 R 271 0 R 273 0 R 275 0 R 277 0 R 279 0 R 281 0 R 283 0 R 285 0 R 287 0 R 289 0 R 291 0 R 293 0 R 295 0 R 297 0 R 299 0 R 301 0 R 303 0 R 305 0 R 307 0 R 309 0 R 311 0 R 313 0 R 315 0 R]
+>>
+endobj
+224 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+319 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@kamlesh90/clean-architecture-net-core-all-you-need-to-know-2fb441364b15)
+>>
+endobj
+320 0 obj
+<<
+/Subtype /Link
+/A 319 0 R
+/Type /Annot
+/Rect [119.226 779.690015 123.118 796.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+321 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@kamlesh90/clean-architecture-net-core-all-you-need-to-know-2fb441364b15)
+>>
+endobj
+322 0 obj
+<<
+/Subtype /Link
+/A 321 0 R
+/Type /Annot
+/Rect [123.118 779.690015 138.686 796.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+323 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@kamlesh90/clean-architecture-net-core-all-you-need-to-know-2fb441364b15)
+>>
+endobj
+324 0 obj
+<<
+/Subtype /Link
+/A 323 0 R
+/Type /Annot
+/Rect [138.686 779.690015 142.578 796.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+325 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@kamlesh90/clean-architecture-net-core-all-you-need-to-know-2fb441364b15)
+>>
+endobj
+326 0 obj
+<<
+/Subtype /Link
+/A 325 0 R
+/Type /Annot
+/Rect [511.408 741.090016 515.3 757.890016]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+327 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@kamlesh90/clean-architecture-net-core-all-you-need-to-know-2fb441364b15)
+>>
+endobj
+328 0 obj
+<<
+/Subtype /Link
+/A 327 0 R
+/Type /Annot
+/Rect [515.3 741.090016 530.868 757.890016]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+329 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@kamlesh90/clean-architecture-net-core-all-you-need-to-know-2fb441364b15)
+>>
+endobj
+330 0 obj
+<<
+/Subtype /Link
+/A 329 0 R
+/Type /Annot
+/Rect [530.868 741.090016 534.76 757.890016]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+331 0 obj
+<<
+/S /URI
+/URI (https://www.concettolabs.com/blog/clean-architecture-net-core/)
+>>
+endobj
+332 0 obj
+<<
+/Subtype /Link
+/A 331 0 R
+/Type /Annot
+/Rect [474.21 503.290027 478.102 520.090027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+333 0 obj
+<<
+/S /URI
+/URI (https://www.concettolabs.com/blog/clean-architecture-net-core/)
+>>
+endobj
+334 0 obj
+<<
+/Subtype /Link
+/A 333 0 R
+/Type /Annot
+/Rect [478.102 503.290027 493.67 520.090027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+335 0 obj
+<<
+/S /URI
+/URI (https://www.concettolabs.com/blog/clean-architecture-net-core/)
+>>
+endobj
+336 0 obj
+<<
+/Subtype /Link
+/A 335 0 R
+/Type /Annot
+/Rect [493.67 503.290027 497.562 520.090027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+337 0 obj
+<<
+/S /URI
+/URI (https://www.cmarix.com/blog/clean-architecture-net-core/)
+>>
+endobj
+338 0 obj
+<<
+/Subtype /Link
+/A 337 0 R
+/Type /Annot
+/Rect [497.562 503.290027 501.454 520.090027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+339 0 obj
+<<
+/S /URI
+/URI (https://www.cmarix.com/blog/clean-architecture-net-core/)
+>>
+endobj
+340 0 obj
+<<
+/Subtype /Link
+/A 339 0 R
+/Type /Annot
+/Rect [501.454 503.290027 509.238 520.090027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+341 0 obj
+<<
+/S /URI
+/URI (https://www.cmarix.com/blog/clean-architecture-net-core/)
+>>
+endobj
+342 0 obj
+<<
+/Subtype /Link
+/A 341 0 R
+/Type /Annot
+/Rect [509.238 503.290027 513.13 520.090027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+343 0 obj
+<<
+/S /URI
+/URI (https://www.cmarix.com/blog/clean-architecture-net-core/)
+>>
+endobj
+344 0 obj
+<<
+/Subtype /Link
+/A 343 0 R
+/Type /Annot
+/Rect [523.294 389.090039 527.186 405.890039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+345 0 obj
+<<
+/S /URI
+/URI (https://www.cmarix.com/blog/clean-architecture-net-core/)
+>>
+endobj
+346 0 obj
+<<
+/Subtype /Link
+/A 345 0 R
+/Type /Annot
+/Rect [527.186 389.090039 534.97 405.890039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+347 0 obj
+<<
+/S /URI
+/URI (https://www.cmarix.com/blog/clean-architecture-net-core/)
+>>
+endobj
+348 0 obj
+<<
+/Subtype /Link
+/A 347 0 R
+/Type /Annot
+/Rect [534.97 389.090039 538.862 405.890039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+349 0 obj
+<<
+/S /URI
+/URI (https://bitloops.com/docs/bitloops-language/learning/software-architecture/clean-architecture)
+>>
+endobj
+350 0 obj
+<<
+/Subtype /Link
+/A 349 0 R
+/Type /Annot
+/Rect [295.024 338.690039 298.916 355.490039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+351 0 obj
+<<
+/S /URI
+/URI (https://bitloops.com/docs/bitloops-language/learning/software-architecture/clean-architecture)
+>>
+endobj
+352 0 obj
+<<
+/Subtype /Link
+/A 351 0 R
+/Type /Annot
+/Rect [298.916 338.690039 306.7 355.490039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+353 0 obj
+<<
+/S /URI
+/URI (https://bitloops.com/docs/bitloops-language/learning/software-architecture/clean-architecture)
+>>
+endobj
+354 0 obj
+<<
+/Subtype /Link
+/A 353 0 R
+/Type /Annot
+/Rect [306.7 338.690039 310.592 355.490039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+355 0 obj
+<<
+/S /URI
+/URI (https://medium.com/droidblogs/android-architecture-patterns-mvc-mvp-mvvm-mvi-clean-architecture-cde8029b8f37)
+>>
+endobj
+356 0 obj
+<<
+/Subtype /Link
+/A 355 0 R
+/Type /Annot
+/Rect [321.104676 207.690051 324.996676 224.490051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+357 0 obj
+<<
+/S /URI
+/URI (https://medium.com/droidblogs/android-architecture-patterns-mvc-mvp-mvvm-mvi-clean-architecture-cde8029b8f37)
+>>
+endobj
+358 0 obj
+<<
+/Subtype /Link
+/A 357 0 R
+/Type /Annot
+/Rect [324.996676 207.690051 340.564676 224.490051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+359 0 obj
+<<
+/S /URI
+/URI (https://medium.com/droidblogs/android-architecture-patterns-mvc-mvp-mvvm-mvi-clean-architecture-cde8029b8f37)
+>>
+endobj
+360 0 obj
+<<
+/Subtype /Link
+/A 359 0 R
+/Type /Annot
+/Rect [340.564676 207.690051 344.325789 224.490051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+361 0 obj
+<<
+/S /URI
+/URI (https://www.cmarix.com/blog/clean-architecture-net-core/)
+>>
+endobj
+362 0 obj
+<<
+/Subtype /Link
+/A 361 0 R
+/Type /Annot
+/Rect [70.912 59.890051 74.804 76.690051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+363 0 obj
+<<
+/S /URI
+/URI (https://www.cmarix.com/blog/clean-architecture-net-core/)
+>>
+endobj
+364 0 obj
+<<
+/Subtype /Link
+/A 363 0 R
+/Type /Annot
+/Rect [74.804 59.890051 82.588 76.690051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+365 0 obj
+<<
+/S /URI
+/URI (https://www.cmarix.com/blog/clean-architecture-net-core/)
+>>
+endobj
+366 0 obj
+<<
+/Subtype /Link
+/A 365 0 R
+/Type /Annot
+/Rect [82.588 59.890051 86.48 76.690051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+367 0 obj
+<<
+/S /URI
+/URI (https://medium.com/droidblogs/android-architecture-patterns-mvc-mvp-mvvm-mvi-clean-architecture-cde8029b8f37)
+>>
+endobj
+368 0 obj
+<<
+/Subtype /Link
+/A 367 0 R
+/Type /Annot
+/Rect [86.48 59.890051 90.372 76.690051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+369 0 obj
+<<
+/S /URI
+/URI (https://medium.com/droidblogs/android-architecture-patterns-mvc-mvp-mvvm-mvi-clean-architecture-cde8029b8f37)
+>>
+endobj
+370 0 obj
+<<
+/Subtype /Link
+/A 369 0 R
+/Type /Annot
+/Rect [90.372 59.890051 105.94 76.690051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+371 0 obj
+<<
+/S /URI
+/URI (https://medium.com/droidblogs/android-architecture-patterns-mvc-mvp-mvvm-mvi-clean-architecture-cde8029b8f37)
+>>
+endobj
+372 0 obj
+<<
+/Subtype /Link
+/A 371 0 R
+/Type /Annot
+/Rect [105.94 59.890051 109.633127 76.690051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+318 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 316 0 R
+/Resources 317 0 R
+/UserUnit 1
+/Annots [320 0 R 322 0 R 324 0 R 326 0 R 328 0 R 330 0 R 332 0 R 334 0 R 336 0 R 338 0 R 340 0 R 342 0 R 344 0 R 346 0 R 348 0 R 350 0 R 352 0 R 354 0 R 356 0 R 358 0 R 360 0 R 362 0 R 364 0 R 366 0 R 368 0 R 370 0 R 372 0 R]
+>>
+endobj
+317 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+376 0 obj
+<<
+/S /URI
+/URI (https://medium.com/droidblogs/android-architecture-patterns-mvc-mvp-mvvm-mvi-clean-architecture-cde8029b8f37)
+>>
+endobj
+377 0 obj
+<<
+/Subtype /Link
+/A 376 0 R
+/Type /Annot
+/Rect [182.016 709.090015 185.908 725.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+378 0 obj
+<<
+/S /URI
+/URI (https://medium.com/droidblogs/android-architecture-patterns-mvc-mvp-mvvm-mvi-clean-architecture-cde8029b8f37)
+>>
+endobj
+379 0 obj
+<<
+/Subtype /Link
+/A 378 0 R
+/Type /Annot
+/Rect [185.908 709.090015 201.476 725.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+380 0 obj
+<<
+/S /URI
+/URI (https://medium.com/droidblogs/android-architecture-patterns-mvc-mvp-mvvm-mvi-clean-architecture-cde8029b8f37)
+>>
+endobj
+381 0 obj
+<<
+/Subtype /Link
+/A 380 0 R
+/Type /Annot
+/Rect [201.476 709.090015 205.368 725.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+382 0 obj
+<<
+/S /URI
+/URI (https://www.concettolabs.com/blog/clean-architecture-net-core/)
+>>
+endobj
+383 0 obj
+<<
+/Subtype /Link
+/A 382 0 R
+/Type /Annot
+/Rect [447.624 578.090015 451.516 594.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+384 0 obj
+<<
+/S /URI
+/URI (https://www.concettolabs.com/blog/clean-architecture-net-core/)
+>>
+endobj
+385 0 obj
+<<
+/Subtype /Link
+/A 384 0 R
+/Type /Annot
+/Rect [451.516 578.090015 467.084 594.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+386 0 obj
+<<
+/S /URI
+/URI (https://www.concettolabs.com/blog/clean-architecture-net-core/)
+>>
+endobj
+387 0 obj
+<<
+/Subtype /Link
+/A 386 0 R
+/Type /Annot
+/Rect [467.084 578.090015 470.976 594.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+388 0 obj
+<<
+/S /URI
+/URI (https://bitloops.com/docs/bitloops-language/learning/software-architecture/clean-architecture)
+>>
+endobj
+389 0 obj
+<<
+/Subtype /Link
+/A 388 0 R
+/Type /Annot
+/Rect [436.606 463.890002 440.498 480.690002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+390 0 obj
+<<
+/S /URI
+/URI (https://bitloops.com/docs/bitloops-language/learning/software-architecture/clean-architecture)
+>>
+endobj
+391 0 obj
+<<
+/Subtype /Link
+/A 390 0 R
+/Type /Annot
+/Rect [440.498 463.890002 448.282 480.690002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+392 0 obj
+<<
+/S /URI
+/URI (https://bitloops.com/docs/bitloops-language/learning/software-architecture/clean-architecture)
+>>
+endobj
+393 0 obj
+<<
+/Subtype /Link
+/A 392 0 R
+/Type /Annot
+/Rect [448.282 463.890002 452.174 480.690002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+394 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+395 0 obj
+<<
+/Subtype /Link
+/A 394 0 R
+/Type /Annot
+/Rect [538.004029 281.48999 541.896029 298.28999]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+396 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+397 0 obj
+<<
+/Subtype /Link
+/A 396 0 R
+/Type /Annot
+/Rect [541.896029 281.48999 555.280029 298.28999]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+398 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+399 0 obj
+<<
+/Subtype /Link
+/A 398 0 R
+/Type /Annot
+/Rect [40 264.68999 43.892 281.48999]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+400 0 obj
+<<
+/S /URI
+/URI (https://blog.ndepend.com/clean-architecture-for-asp-net-core-solution/)
+>>
+endobj
+401 0 obj
+<<
+/Subtype /Link
+/A 400 0 R
+/Type /Annot
+/Rect [43.892 264.68999 47.784 281.48999]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+402 0 obj
+<<
+/S /URI
+/URI (https://blog.ndepend.com/clean-architecture-for-asp-net-core-solution/)
+>>
+endobj
+403 0 obj
+<<
+/Subtype /Link
+/A 402 0 R
+/Type /Annot
+/Rect [47.784 264.68999 55.568 281.48999]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+404 0 obj
+<<
+/S /URI
+/URI (https://blog.ndepend.com/clean-architecture-for-asp-net-core-solution/)
+>>
+endobj
+405 0 obj
+<<
+/Subtype /Link
+/A 404 0 R
+/Type /Annot
+/Rect [55.568 264.68999 59.46 281.48999]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+406 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+407 0 obj
+<<
+/Subtype /Link
+/A 406 0 R
+/Type /Annot
+/Rect [73.25 150.48999 77.142 167.28999]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+408 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+409 0 obj
+<<
+/Subtype /Link
+/A 408 0 R
+/Type /Annot
+/Rect [77.142 150.48999 84.926 167.28999]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+410 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+411 0 obj
+<<
+/Subtype /Link
+/A 410 0 R
+/Type /Annot
+/Rect [84.926 150.48999 88.818 167.28999]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+412 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+413 0 obj
+<<
+/Subtype /Link
+/A 412 0 R
+/Type /Annot
+/Rect [528.096 116.88999 531.988 133.68999]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+414 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+415 0 obj
+<<
+/Subtype /Link
+/A 414 0 R
+/Type /Annot
+/Rect [531.988 116.88999 539.772 133.68999]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+416 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+417 0 obj
+<<
+/Subtype /Link
+/A 416 0 R
+/Type /Annot
+/Rect [539.772 116.88999 543.664 133.68999]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+375 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 373 0 R
+/Resources 374 0 R
+/UserUnit 1
+/Annots [377 0 R 379 0 R 381 0 R 383 0 R 385 0 R 387 0 R 389 0 R 391 0 R 393 0 R 395 0 R 397 0 R 399 0 R 401 0 R 403 0 R 405 0 R 407 0 R 409 0 R 411 0 R 413 0 R 415 0 R 417 0 R]
+>>
+endobj
+374 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+421 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+422 0 obj
+<<
+/Subtype /Link
+/A 421 0 R
+/Type /Annot
+/Rect [349.509618 796.490015 353.401618 813.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+423 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+424 0 obj
+<<
+/Subtype /Link
+/A 423 0 R
+/Type /Annot
+/Rect [353.401618 796.490015 361.185618 813.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+425 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+426 0 obj
+<<
+/Subtype /Link
+/A 425 0 R
+/Type /Annot
+/Rect [361.185618 796.490015 365.077618 813.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+427 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+428 0 obj
+<<
+/Subtype /Link
+/A 427 0 R
+/Type /Annot
+/Rect [473.65 762.890015 477.542 779.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+429 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+430 0 obj
+<<
+/Subtype /Link
+/A 429 0 R
+/Type /Annot
+/Rect [477.542 762.890015 485.326 779.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+431 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+432 0 obj
+<<
+/Subtype /Link
+/A 431 0 R
+/Type /Annot
+/Rect [485.326 762.890015 489.218 779.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+433 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+434 0 obj
+<<
+/Subtype /Link
+/A 433 0 R
+/Type /Annot
+/Rect [251.638 665.490013 255.53 682.290013]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+435 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+436 0 obj
+<<
+/Subtype /Link
+/A 435 0 R
+/Type /Annot
+/Rect [255.53 665.490013 263.314 682.290013]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+437 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+438 0 obj
+<<
+/Subtype /Link
+/A 437 0 R
+/Type /Annot
+/Rect [263.314 665.490013 267.206 682.290013]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+439 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+440 0 obj
+<<
+/Subtype /Link
+/A 439 0 R
+/Type /Annot
+/Rect [530.966 615.090013 534.858 631.890013]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+441 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+442 0 obj
+<<
+/Subtype /Link
+/A 441 0 R
+/Type /Annot
+/Rect [534.858 615.090013 542.642 631.890013]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+443 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+444 0 obj
+<<
+/Subtype /Link
+/A 443 0 R
+/Type /Annot
+/Rect [542.642 615.090013 546.534 631.890013]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+445 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+446 0 obj
+<<
+/Subtype /Link
+/A 445 0 R
+/Type /Annot
+/Rect [153.736 484.090002 157.628 500.890002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+447 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+448 0 obj
+<<
+/Subtype /Link
+/A 447 0 R
+/Type /Annot
+/Rect [157.628 484.090002 165.412 500.890002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+449 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+450 0 obj
+<<
+/Subtype /Link
+/A 449 0 R
+/Type /Annot
+/Rect [165.412 484.090002 169.304 500.890002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+451 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+452 0 obj
+<<
+/Subtype /Link
+/A 451 0 R
+/Type /Annot
+/Rect [73.754 353.090002 77.646 369.890002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+453 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+454 0 obj
+<<
+/Subtype /Link
+/A 453 0 R
+/Type /Annot
+/Rect [77.646 353.090002 85.43 369.890002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+455 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+456 0 obj
+<<
+/Subtype /Link
+/A 455 0 R
+/Type /Annot
+/Rect [85.43 353.090002 89.322 369.890002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+457 0 obj
+<<
+/S /URI
+/URI (https://blog.ndepend.com/clean-architecture-for-asp-net-core-solution/)
+>>
+endobj
+458 0 obj
+<<
+/Subtype /Link
+/A 457 0 R
+/Type /Annot
+/Rect [518.016 255.690002 521.908 272.490002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+459 0 obj
+<<
+/S /URI
+/URI (https://blog.ndepend.com/clean-architecture-for-asp-net-core-solution/)
+>>
+endobj
+460 0 obj
+<<
+/Subtype /Link
+/A 459 0 R
+/Type /Annot
+/Rect [521.908 255.690002 529.692 272.490002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+461 0 obj
+<<
+/S /URI
+/URI (https://blog.ndepend.com/clean-architecture-for-asp-net-core-solution/)
+>>
+endobj
+462 0 obj
+<<
+/Subtype /Link
+/A 461 0 R
+/Type /Annot
+/Rect [529.692 255.690002 533.584 272.490002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+420 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 418 0 R
+/Resources 419 0 R
+/UserUnit 1
+/Annots [422 0 R 424 0 R 426 0 R 428 0 R 430 0 R 432 0 R 434 0 R 436 0 R 438 0 R 440 0 R 442 0 R 444 0 R 446 0 R 448 0 R 450 0 R 452 0 R 454 0 R 456 0 R 458 0 R 460 0 R 462 0 R]
+>>
+endobj
+419 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+466 0 obj
+<<
+/S /URI
+/URI (https://bitloops.com/docs/bitloops-language/learning/software-architecture/clean-architecture)
+>>
+endobj
+467 0 obj
+<<
+/Subtype /Link
+/A 466 0 R
+/Type /Annot
+/Rect [236.294 684.490015 240.186 701.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+468 0 obj
+<<
+/S /URI
+/URI (https://bitloops.com/docs/bitloops-language/learning/software-architecture/clean-architecture)
+>>
+endobj
+469 0 obj
+<<
+/Subtype /Link
+/A 468 0 R
+/Type /Annot
+/Rect [240.186 684.490015 247.97 701.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+470 0 obj
+<<
+/S /URI
+/URI (https://bitloops.com/docs/bitloops-language/learning/software-architecture/clean-architecture)
+>>
+endobj
+471 0 obj
+<<
+/Subtype /Link
+/A 470 0 R
+/Type /Annot
+/Rect [247.97 684.490015 251.862 701.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+472 0 obj
+<<
+/S /URI
+/URI (https://bitloops.com/docs/bitloops-language/learning/software-architecture/clean-architecture)
+>>
+endobj
+473 0 obj
+<<
+/Subtype /Link
+/A 472 0 R
+/Type /Annot
+/Rect [535.822748 572.490009 539.713842 589.290009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+474 0 obj
+<<
+/S /URI
+/URI (https://bitloops.com/docs/bitloops-language/learning/software-architecture/clean-architecture)
+>>
+endobj
+475 0 obj
+<<
+/Subtype /Link
+/A 474 0 R
+/Type /Annot
+/Rect [539.713842 572.490009 547.496936 589.290009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+476 0 obj
+<<
+/S /URI
+/URI (https://bitloops.com/docs/bitloops-language/learning/software-architecture/clean-architecture)
+>>
+endobj
+477 0 obj
+<<
+/Subtype /Link
+/A 476 0 R
+/Type /Annot
+/Rect [547.496936 572.490009 551.388029 589.290009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+478 0 obj
+<<
+/S /URI
+/URI (https://bitloops.com/docs/bitloops-language/learning/software-architecture/clean-architecture)
+>>
+endobj
+479 0 obj
+<<
+/Subtype /Link
+/A 478 0 R
+/Type /Annot
+/Rect [396.328 443.690009 400.22 460.490009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+480 0 obj
+<<
+/S /URI
+/URI (https://bitloops.com/docs/bitloops-language/learning/software-architecture/clean-architecture)
+>>
+endobj
+481 0 obj
+<<
+/Subtype /Link
+/A 480 0 R
+/Type /Annot
+/Rect [400.22 443.690009 408.004 460.490009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+482 0 obj
+<<
+/S /URI
+/URI (https://bitloops.com/docs/bitloops-language/learning/software-architecture/clean-architecture)
+>>
+endobj
+483 0 obj
+<<
+/Subtype /Link
+/A 482 0 R
+/Type /Annot
+/Rect [408.004 443.690009 411.896 460.490009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+484 0 obj
+<<
+/S /URI
+/URI (https://omidshabab.medium.com/mastering-clean-architecture-a-comprehensive-guide-from-zero-to-hero-8bbccf2725be)
+>>
+endobj
+485 0 obj
+<<
+/Subtype /Link
+/A 484 0 R
+/Type /Annot
+/Rect [411.896 443.690009 415.788 460.490009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+486 0 obj
+<<
+/S /URI
+/URI (https://omidshabab.medium.com/mastering-clean-architecture-a-comprehensive-guide-from-zero-to-hero-8bbccf2725be)
+>>
+endobj
+487 0 obj
+<<
+/Subtype /Link
+/A 486 0 R
+/Type /Annot
+/Rect [415.788 443.690009 431.356 460.490009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+488 0 obj
+<<
+/S /URI
+/URI (https://omidshabab.medium.com/mastering-clean-architecture-a-comprehensive-guide-from-zero-to-hero-8bbccf2725be)
+>>
+endobj
+489 0 obj
+<<
+/Subtype /Link
+/A 488 0 R
+/Type /Annot
+/Rect [431.356 443.690009 435.248 460.490009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+490 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@devcorner/understanding-clean-architecture-a-detailed-guide-with-real-world-application-example-cc6e62b9cd0c)
+>>
+endobj
+491 0 obj
+<<
+/Subtype /Link
+/A 490 0 R
+/Type /Annot
+/Rect [76.638 298.090021 80.53 314.890021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+492 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@devcorner/understanding-clean-architecture-a-detailed-guide-with-real-world-application-example-cc6e62b9cd0c)
+>>
+endobj
+493 0 obj
+<<
+/Subtype /Link
+/A 492 0 R
+/Type /Annot
+/Rect [80.53 298.090021 96.098 314.890021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+494 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@devcorner/understanding-clean-architecture-a-detailed-guide-with-real-world-application-example-cc6e62b9cd0c)
+>>
+endobj
+495 0 obj
+<<
+/Subtype /Link
+/A 494 0 R
+/Type /Annot
+/Rect [96.098 298.090021 99.99 314.890021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+496 0 obj
+<<
+/S /URI
+/URI (https://omidshabab.medium.com/mastering-clean-architecture-a-comprehensive-guide-from-zero-to-hero-8bbccf2725be)
+>>
+endobj
+497 0 obj
+<<
+/Subtype /Link
+/A 496 0 R
+/Type /Annot
+/Rect [99.99 298.090021 103.882 314.890021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+498 0 obj
+<<
+/S /URI
+/URI (https://omidshabab.medium.com/mastering-clean-architecture-a-comprehensive-guide-from-zero-to-hero-8bbccf2725be)
+>>
+endobj
+499 0 obj
+<<
+/Subtype /Link
+/A 498 0 R
+/Type /Annot
+/Rect [103.882 298.090021 119.45 314.890021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+500 0 obj
+<<
+/S /URI
+/URI (https://omidshabab.medium.com/mastering-clean-architecture-a-comprehensive-guide-from-zero-to-hero-8bbccf2725be)
+>>
+endobj
+501 0 obj
+<<
+/Subtype /Link
+/A 500 0 R
+/Type /Annot
+/Rect [119.45 298.090021 123.342 314.890021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+502 0 obj
+<<
+/S /URI
+/URI (https://richard-h-passos.medium.com/clean-architecture-589ce59a0b4c)
+>>
+endobj
+503 0 obj
+<<
+/Subtype /Link
+/A 502 0 R
+/Type /Annot
+/Rect [381.208 169.290015 385.1 186.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+504 0 obj
+<<
+/S /URI
+/URI (https://richard-h-passos.medium.com/clean-architecture-589ce59a0b4c)
+>>
+endobj
+505 0 obj
+<<
+/Subtype /Link
+/A 504 0 R
+/Type /Annot
+/Rect [385.1 169.290015 400.668 186.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+506 0 obj
+<<
+/S /URI
+/URI (https://richard-h-passos.medium.com/clean-architecture-589ce59a0b4c)
+>>
+endobj
+507 0 obj
+<<
+/Subtype /Link
+/A 506 0 R
+/Type /Annot
+/Rect [400.668 169.290015 404.56 186.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+508 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@devcorner/understanding-clean-architecture-a-detailed-guide-with-real-world-application-example-cc6e62b9cd0c)
+>>
+endobj
+509 0 obj
+<<
+/Subtype /Link
+/A 508 0 R
+/Type /Annot
+/Rect [404.56 169.290015 408.452 186.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+510 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@devcorner/understanding-clean-architecture-a-detailed-guide-with-real-world-application-example-cc6e62b9cd0c)
+>>
+endobj
+511 0 obj
+<<
+/Subtype /Link
+/A 510 0 R
+/Type /Annot
+/Rect [408.452 169.290015 424.02 186.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+512 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@devcorner/understanding-clean-architecture-a-detailed-guide-with-real-world-application-example-cc6e62b9cd0c)
+>>
+endobj
+513 0 obj
+<<
+/Subtype /Link
+/A 512 0 R
+/Type /Annot
+/Rect [424.02 169.290015 427.912 186.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+514 0 obj
+<<
+/S /URI
+/URI (https://bitloops.com/docs/bitloops-language/learning/software-architecture/clean-architecture)
+>>
+endobj
+515 0 obj
+<<
+/Subtype /Link
+/A 514 0 R
+/Type /Annot
+/Rect [433.4 40.490027 437.292 57.290027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+516 0 obj
+<<
+/S /URI
+/URI (https://bitloops.com/docs/bitloops-language/learning/software-architecture/clean-architecture)
+>>
+endobj
+517 0 obj
+<<
+/Subtype /Link
+/A 516 0 R
+/Type /Annot
+/Rect [437.292 40.490027 445.076 57.290027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+518 0 obj
+<<
+/S /URI
+/URI (https://bitloops.com/docs/bitloops-language/learning/software-architecture/clean-architecture)
+>>
+endobj
+519 0 obj
+<<
+/Subtype /Link
+/A 518 0 R
+/Type /Annot
+/Rect [445.076 40.490027 448.968 57.290027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+520 0 obj
+<<
+/S /URI
+/URI (https://omidshabab.medium.com/mastering-clean-architecture-a-comprehensive-guide-from-zero-to-hero-8bbccf2725be)
+>>
+endobj
+521 0 obj
+<<
+/Subtype /Link
+/A 520 0 R
+/Type /Annot
+/Rect [448.968 40.490027 452.86 57.290027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+522 0 obj
+<<
+/S /URI
+/URI (https://omidshabab.medium.com/mastering-clean-architecture-a-comprehensive-guide-from-zero-to-hero-8bbccf2725be)
+>>
+endobj
+523 0 obj
+<<
+/Subtype /Link
+/A 522 0 R
+/Type /Annot
+/Rect [452.86 40.490027 468.428 57.290027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+524 0 obj
+<<
+/S /URI
+/URI (https://omidshabab.medium.com/mastering-clean-architecture-a-comprehensive-guide-from-zero-to-hero-8bbccf2725be)
+>>
+endobj
+525 0 obj
+<<
+/Subtype /Link
+/A 524 0 R
+/Type /Annot
+/Rect [468.428 40.490027 472.32 57.290027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+465 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 463 0 R
+/Resources 464 0 R
+/UserUnit 1
+/Annots [467 0 R 469 0 R 471 0 R 473 0 R 475 0 R 477 0 R 479 0 R 481 0 R 483 0 R 485 0 R 487 0 R 489 0 R 491 0 R 493 0 R 495 0 R 497 0 R 499 0 R 501 0 R 503 0 R 505 0 R 507 0 R 509 0 R 511 0 R 513 0 R 515 0 R 517 0 R 519 0 R 521 0 R 523 0 R 525 0 R]
+>>
+endobj
+464 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+529 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@DrunknCode/clean-architecture-simplified-and-in-depth-guide-026333c54454)
+>>
+endobj
+530 0 obj
+<<
+/Subtype /Link
+/A 529 0 R
+/Type /Annot
+/Rect [76.543999 745.090014 447.75399 760.490013]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+531 0 obj
+<<
+/S /URI
+/URI (https://www.geeksforgeeks.org/complete-guide-to-clean-architecture/)
+>>
+endobj
+532 0 obj
+<<
+/Subtype /Link
+/A 531 0 R
+/Type /Annot
+/Rect [76.543999 724.690012 421.588005 740.090012]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+533 0 obj
+<<
+/S /URI
+/URI (https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles)
+>>
+endobj
+534 0 obj
+<<
+/Subtype /Link
+/A 533 0 R
+/Type /Annot
+/Rect [76.543999 704.29001 370.011986 719.69001]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+535 0 obj
+<<
+/S /URI
+/URI (https://www.techtarget.com/searchapparchitecture/tip/A-primer-on-the-clean-architecture-pattern-and-its-principles)
+>>
+endobj
+536 0 obj
+<<
+/Subtype /Link
+/A 535 0 R
+/Type /Annot
+/Rect [76.543999 683.890009 443.021996 699.290009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+537 0 obj
+<<
+/S /URI
+/URI (https://medium.com/software-development-and-architecture/understanding-clean-architecture-a-guide-to-structured-software-design-8702b9831dc0)
+>>
+endobj
+538 0 obj
+<<
+/Subtype /Link
+/A 537 0 R
+/Type /Annot
+/Rect [76.543999 663.490015 505.50399 678.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+539 0 obj
+<<
+/S /URI
+/URI (https://www.cmarix.com/blog/clean-architecture-net-core/)
+>>
+endobj
+540 0 obj
+<<
+/Subtype /Link
+/A 539 0 R
+/Type /Annot
+/Rect [76.067371 643.090021 545.280018 658.490021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+541 0 obj
+<<
+/S /URI
+/URI (https://blog.ndepend.com/clean-architecture-for-asp-net-core-solution/)
+>>
+endobj
+542 0 obj
+<<
+/Subtype /Link
+/A 541 0 R
+/Type /Annot
+/Rect [76.543999 622.690027 405.473991 638.090027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+543 0 obj
+<<
+/S /URI
+/URI (https://bitloops.com/docs/bitloops-language/learning/software-architecture/clean-architecture)
+>>
+endobj
+544 0 obj
+<<
+/Subtype /Link
+/A 543 0 R
+/Type /Annot
+/Rect [76.543999 602.290033 529.752007 617.690033]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+545 0 obj
+<<
+/S /URI
+/URI (https://positiwise.com/blog/clean-architecture-net-core)
+>>
+endobj
+546 0 obj
+<<
+/Subtype /Link
+/A 545 0 R
+/Type /Annot
+/Rect [76.543999 581.890039 457.148003 597.290039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+547 0 obj
+<<
+/S /URI
+/URI (https://www.bytehide.com/blog/clean-architecture-net-core)
+>>
+endobj
+548 0 obj
+<<
+/Subtype /Link
+/A 547 0 R
+/Type /Annot
+/Rect [84.327999 561.490046 441.439999 576.890045]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+549 0 obj
+<<
+/S /URI
+/URI (https://www.concettolabs.com/blog/clean-architecture-net-core/)
+>>
+endobj
+550 0 obj
+<<
+/Subtype /Link
+/A 549 0 R
+/Type /Annot
+/Rect [84.327999 541.090052 540.014004 556.490051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+551 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@kamlesh90/clean-architecture-net-core-all-you-need-to-know-2fb441364b15)
+>>
+endobj
+552 0 obj
+<<
+/Subtype /Link
+/A 551 0 R
+/Type /Annot
+/Rect [84.327999 520.690058 409.324001 536.090057]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+553 0 obj
+<<
+/S /URI
+/URI (https://www.linkedin.com/pulse/embracing-clean-architecture-net-core-comprehensive-guide-h2a6f)
+>>
+endobj
+554 0 obj
+<<
+/Subtype /Link
+/A 553 0 R
+/Type /Annot
+/Rect [82.902374 500.290064 545.280029 515.690063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+555 0 obj
+<<
+/S /URI
+/URI (https://www.linkedin.com/pulse/exploring-clean-architecture-journey-ramin-sharifi-bns5f)
+>>
+endobj
+556 0 obj
+<<
+/Subtype /Link
+/A 555 0 R
+/Type /Annot
+/Rect [84.327999 479.89007 404.130001 495.29007]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+557 0 obj
+<<
+/S /URI
+/URI (https://elbshry.medium.com/clean-architecture-the-principles-and-benefits-660a0172563d)
+>>
+endobj
+558 0 obj
+<<
+/Subtype /Link
+/A 557 0 R
+/Type /Annot
+/Rect [84.327999 459.490076 517.081997 474.890076]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+559 0 obj
+<<
+/S /URI
+/URI (https://medium.com/droidblogs/android-architecture-patterns-mvc-mvp-mvvm-mvi-clean-architecture-cde8029b8f37)
+>>
+endobj
+560 0 obj
+<<
+/Subtype /Link
+/A 559 0 R
+/Type /Annot
+/Rect [84.327999 439.090082 418.242001 454.490082]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+561 0 obj
+<<
+/S /URI
+/URI (https://omidshabab.medium.com/mastering-clean-architecture-a-comprehensive-guide-from-zero-to-hero-8bbccf2725be)
+>>
+endobj
+562 0 obj
+<<
+/Subtype /Link
+/A 561 0 R
+/Type /Annot
+/Rect [82.962208 418.690088 545.280018 434.090088]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+563 0 obj
+<<
+/S /URI
+/URI (https://medium.com/@devcorner/understanding-clean-architecture-a-detailed-guide-with-real-world-application-example-cc6e62b9cd0c)
+>>
+endobj
+564 0 obj
+<<
+/Subtype /Link
+/A 563 0 R
+/Type /Annot
+/Rect [84.29615 398.290094 545.280037 413.690094]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+565 0 obj
+<<
+/S /URI
+/URI (https://richard-h-passos.medium.com/clean-architecture-589ce59a0b4c)
+>>
+endobj
+566 0 obj
+<<
+/Subtype /Link
+/A 565 0 R
+/Type /Annot
+/Rect [84.047115 377.8901 545.280025 393.2901]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+528 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 526 0 R
+/Resources 527 0 R
+/UserUnit 1
+/Annots [530 0 R 532 0 R 534 0 R 536 0 R 538 0 R 540 0 R 542 0 R 544 0 R 546 0 R 548 0 R 550 0 R 552 0 R 554 0 R 556 0 R 558 0 R 560 0 R 562 0 R 564 0 R 566 0 R]
+>>
+endobj
+527 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+568 0 obj
+(react-pdf)
+endobj
+569 0 obj
+(react-pdf)
+endobj
+570 0 obj
+(D:20250304161507Z)
+endobj
+567 0 obj
+<<
+/Producer 568 0 R
+/Creator 569 0 R
+/CreationDate 570 0 R
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+4 0 obj
+<<
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/Names 2 0 R
+/ViewerPreferences 5 0 R
+>>
+endobj
+1 0 obj
+<<
+/Type /Pages
+/Count 11
+/Kids [8 0 R 13 0 R 66 0 R 129 0 R 162 0 R 225 0 R 318 0 R 375 0 R 420 0 R 465 0 R 528 0 R]
+>>
+endobj
+2 0 obj
+<<
+/Dests <<
+  /Names [
+]
+>>
+>>
+endobj
+5 0 obj
+<<
+/DisplayDocTitle true
+>>
+endobj
+6 0 obj
+<<
+/Length 1191
+/Filter /FlateDecode
+>>
+stream
+xœÕ™Ínã6…÷~
+½ÀpxIŞK²t:@w)¼+ºh¹˜Å(ôùç¢~lQ¶Rd)lC”óó¹çşˆÇÂSp¤BÔš¸9};üS”O ÆêÆé~¡?H:ıçƒã!§KºŠ!%iñãOí¿_Oí¯_>5§—ƒÎ'¾œş>|üòBÍ_/øğÓpÊ7ùt.~±tÄ•¦Æ¸æx>üöàì#Öä$,$­ÑòoÄJè¬wq„6­k»O°w8»|üœVñö÷æøËáó_m$ ÊKhò†Ÿê[.kOyı‚“ˆræ—^¢¤(h1¾»ñqªrD^œ×‚±l"I¼<í€e÷ØIlHÌcc
+d£å,2'mFŒgo« )ˆÒŞŒ « H){­6İğ5<2ÿ‡Ä¨ğÖ³<wÛ-/ääƒM:‹ÕM³WŞõkû6NqÄ_ØÜ¾Y—HÂV±ú QZUô:	ÁÛk)¬ÁºF"+å–FrÈøD*^“2ïÊö¢;mP§fç„d4@Ã™¬IdÛ¥Øq^™peÆÙ½?çF4°	Éf9Dà€ :gñ‚WÎgo{h·¸ $®½x0fV6sÛ#6:/‚‚ÿbç§Hn#¤ìšM¯(©dƒäN×èµìv!î?ù‰	ÊÉ
+"¤ƒÊÃD»p¹œI
+FĞ õ?Œ~Ó§'.QåËÂy¡?³4ªšeé
+1«³‡z›Şk9kâ&©dÅ–ÙtöJÛÛ2â&eoSXŒ¥S‚ƒ2^Y:0q"VìkT*å‹™gãwGR’16Ø«Ş_´ oXµ ˆ§YzŞMÕÒ§æóPÖ¦U/®")İ®¡-(åw×¹¬ˆøõ'uÛ+PEYQ«m¸ò((j8²Ÿ¼N¨V÷^‡¤¤+“Ş.úÈk´a4¹¦â©No¯–ç&Ù1ûB#wÿ1' W:*|8›Í0qœ_xÕTÆ@Bamû±Ş˜'&.ã:Uõƒwç7ÉN¸”òû¶æ±­v£Ì˜‹3«”44Š@øG¦†Vù{´í÷Ê%QuÁW5£<¤¡Ô<L‡C$§ÊñÖèÎ ;Ú½¡ßw®Û3Š^S]ˆÖI´nïçĞ>Ù4ŸŒ_J{Ù1°eø'Ş’KgNË˜é6; ©ÏJ+É‘mXh?ß__=Ó,êv/şÇ¥‰Å²ıd¿i¿‘	¥(»ßšØQ¼c[Îh?l¶·å”%İ¼6g'(|ºçI~ºj>VL*D+YÓ}n;=­î7æu6­iG7Æ¤’j;0âé½‚Ëªæ„GÒÌy~ÿeáŞŠSz>½Ù×Ä³4MBÈqd•!7C@}îI©¦Ëğy<šÔ”LÈæâñŒ$…Ô¾XÜ]CjËƒÒÉëtÉúI•×{8ã´¼¹ªŞr$¯•¥¨J)ãÉf[â­ÍÀJ¢:åJ¥Š˜Ş®Ó¬l2ÛÒ	JÏÆÊû)Yò½ÇÒuõQ–Å¼o`š´%ÕF…ø‚kOkâa2ïFŒÅy×Dßİ²ç©òø[ƒ^
+endstream
+endobj
+127 0 obj
+<<
+/Length 2794
+/Filter /FlateDecode
+>>
+stream
+xœí\Kä¶¾Ï¯è?šoŠ€1Û‰8;· ‡]MwÀ,ÿıTI‰T“¥Ş±{º;YÌ>FÉ¢ªŠÅ¯”:Høùƒ‚&«Ä¥Tî0ÿòôïü£¨:‰òƒrSÉCn\îÀ_-<Şûæ‡ãş9ÿúãw‡ùó“¤çŸç=}óãguøÇgèóÓÒ¯Cÿ»—jÌêÑŒü' l/§§¿}kÍ3<ÿÖÏŞyåZZE7‚öÆO>L°ÁÁ§%Ü1Z¼£Ÿ®ƒ¦Uo±‰?B·ü6{Íàpñù ‘´
+@ûéZ U C†4¤8|h`0‘&OwO0<Ş×ğw¦öŸäAÏãhù|pğ¿ƒÑpŞ0øß/~úã°­0ÆÉ(œÔ’ËOGñ_…}?Iø×Ä€27±x£3ßfb¾—OÍ€CÀê$xÏˆb&âQ¨ëØIˆ0n¡ÂûÊ'š6Dd{-¡"—‰¸íH¨(ÓŸb—ÏvrÂÊiås¥í^Lçw­ú9?b+paŞFí|Ò¨ê:ÁzáZĞz˜Qó™QN;cú‚p;JW 0Z*ëÂí~½¤ewŞØÒL¢üœ‰{&Ù~Dz;,ÿn;³RATÊˆYßz´äU*h©cOI¶·½ëÍ;ê¢ËÓÃªr¤ óò»«–e¶k¨»yQ{XıÇUğ dCL¶³Ø 2	£å‹:M¤^ä(uĞÀ iè¦}¶óh|°gÀ^i™‚(…ºÇ|'“¹mï†˜Ä;±ö§Äd´{*ïXúßv#XÛŒEî¾¼²ND_~óBBMÒD­°Rë °JoƒtÓ¤C•>¶Í®À÷©;yÍï}ê&v§D˜ìOİ½>,×YaôÿÂ\Éd"°àç±ÙMCÂvxï×§b•…÷¸s#ÓåÏõ|ÿáíÌÿğı_>äiüÚÒ ’.§ë’¬i I¯„×¥X‘@‚N˜I_™bEH#”÷×%YÓ@’A@ï+‘L?ï=Æ3÷½‡Vno5 ²%?"ÀC0‡HCÌHĞïä=¸ÿ o,ÂŸÕ•xEèƒoD§Å÷÷ŸPG{Í¡ò¬;ÜSÆß8úAˆ­¼û‚©?•`E~ïHÀØ.ĞOeßºÀİÄ¹7ER¡gÈ<ÀådbÄ$ãĞ	$AĞœïÂ°‡ûˆsøZ·ÏöŒ‹ìT€w	E‹6í:‰«’ÃŠá*’’=çz×Ãa^E÷wgƒˆæn#!¼ R¼îØøŒ¨¶àN£ÂûG0ŒL¿â)âX&KºDû(ü‡á1êCÅZ[ÖÁ—éÍ&¨ˆá±â“‹ÇV%ô‚ešlWrw5È	)@sLÎû3êpUÁ~“Â&ëe½sœfØ8ñ•y¾,¼¾Ûkp_vN†{‡ÔìÈ¨¯ÌoœEH[÷ëe!¯_Å‰¦:EAQàq¿qƒ'<O=Q¾hµ¢Á{mÄëŞĞğ_øBFÜiaiW¶í¨ëk@ÎNN³‘Ãì¬æfñ*¥ˆ ¼Ê«9–-$<‰`Ôõ	·dĞ©½¯Fø¦AZ•…#XvÄyŞ€8»$†ŞZ(Hyò=%+q‹®'£Kn÷aA‡Ù„´ü²ë’ÑRBG´Æ;<[Á >;|x¬´vÜj“&Df­¶*yLZvf‘šÑtVŒ:ÓmœŠ'ÔVéÿà¤:Ş‰'·ñUsäì­š²É_¯<òĞ®iìÅ´æKĞl»ºõrİª‡£òõAämØSiMfçÅ¿m<Ê ±S$·–chôs“*(£Z©òH•z’ƒ$ê=8²MiDÊQêf!''İ?M†–›•êYT‘¬ÃÇl3Ìâ®Ê2h×‚¦²’,)[ÊĞ“Az-Öi³ê.tñvÓl†"‰¡'Û{§™}&)hŞ£s¢9…Té“¼ğr-‹¢ŒvÒÚŞú®‹pû}öÁ§üšû=|Ê/IµLÑğê5lïîjùB²¢$Á—2öº‰£†fjs­`®@ıZ‚üôƒx;rå— ¹/Øş‹a>æóÔÇùfR#Æ½+Üw	î‡H5MnÙ|Ó®ZŠÖÒ¦¿)4}‹§°ÀÆ„{C.—¢<CÎíÀ“i…é71ó2ªAÆ`MºÄß¦A ÚDXÚj“ã;ë%r€{1Áy¬?cüa–Îœæ\ÉÇ±­K\j<¯AT¡*¢lûúõ²
+r3èÆ½Ø>Û‚JnöTPù¦âÇ»Àí
+½7yo"*Éø*ùNËUl®LsÕi™~§æêØôÃÌUR/]b|uÉQÄq˜ú+2ˆıÃhFÍ;o›:–ú£ë[¬¹‘X¾6WìŒĞWm'fÔùòQ73PÌ¨GF-.îÇ>ìL}Cß1ãf¦+ğæ˜åÓR@ÛÄ¼Å™ªWW–•¿ŞJ••øXï¹˜í8ÕĞóï¤-‘éQ+ÏS-DöÑ	µÄTSR‡7JAx9[²D/ÆI%* Xò9şGz“á”¡è¼«+ô&ã„ô÷î0õõ¿úúoõõ‹†g/Ø˜IDwİBØ†¨ÌuÃ 	< ÷®¾uFXğXµ½­ÇjuöX©¦*{;º>ÀÕV%³ã|V5Z»µXéìZ•räˆ¤pì©Î+P½Ôğ„Õên »4t;lôÂ™&gxC·©ä/aõTFVôGoK!kêÓSç™½Ô6JÜÊj'Ÿ6·&ÚŸöV"“»/¡É»)±–æHù0ìï»Öå.¼¹nÕä¹‹Mî¯”LV^‰Ğ7¢+nê,v§ÀøÂb·gUÚZuûí75½‰hõY¿­æ¸¿=éIØi/¡ïœ»‹@ß5«+Jº|ğQ­/­K:°\_ [S§x­óÇw]>¤®j˜VUÂú;9¾nEÅâ?ãœÒgRÚx½DudŸÓtJ®ëë¦Åví%ßK`éÖäd™vK’j3²óÂ´oÑ/hËcß†"ãtØVQ\óÒ1w˜ß÷½øJØì“X#·“ —–jÄ°^V#m›ê’¸ÖµªLŸ½1aiQe%:àGJÕ`Û¬*Ÿ”xÜ²Vb¶á Ç|lø·é• +7®µ¹Òêâ™ØîLR–‹È¸gŞ"º'@2TÃóbÙ—La—{
+Î¤bÕY‹áæ¹3dÊéÉ‹(wÎÿw ˆ7zä·İyŠÖ¢’£~'™Çlë!_Ğc»ÎÀ€Ü…Oëò²‡"•š@0)¨º^–=ÓcÀ«qdsÇÏÃî,×Ò;¦í¹Ì¼[ Ê6å1{AHÌ\Rı%®õõ[H¿‰ƒC¦GuïbËzÓh@ùŞÉà€`ï˜Ôè,bŠŸwõuûE¦º¶¸qÏWåÛVU½\Ñ4MU¥Ìd}¥€şî¬UõÏn÷ÄfÈá«İoŞT…$(ÉEËQ°Ê·q£ã·KÙF{t©	§Ñğœ'zÕ]ß>,ÚVŸ„-áòİÿ¢¯»åÂ…:hŸ¹kc:¯ó#\$óªh×›r‚wèbßóç‡êãüAï³RœÆ,ÕáedÛæ„ë%ßšÛƒ‹i=-.‡Oß‰*qí|s>$q¬Hïnö“pÁœòó_/€
+endstream
+endobj
+373 0 obj
+<<
+/Length 3109
+/Filter /FlateDecode
+>>
+stream
+xœí\K·¾Ï¯˜? šo6av9P¤[ƒÕ3ÈÄ?UÅwÉñZ™^A^K+v³Yìb±ê«[9ü¼ğ×¢[<çÂ×çÃâ â¨8şo¤‹Ñµtş,xå‡?œÿûÏõü×Ÿ<®_œ‰…+/…±‹•NèÈ´ÎjÇÍ²He¤‡KÖ·İ_Ö~øù‹8şãù	u&üã§jÕ­O0™?‰£äÇO—ÃßŞkoO;i/OG¸ûŞÙ§£„ßÖX-¹Vöb×'á}ú%,ôuò	_ZN[n\ìşñ÷ã§?şø	æ–¨Kn˜Ó1hÖèwÃ6å®ø&™ípîÿÿØ t`ƒÑÀb#¹sñÅŒ]í*OVÃ¿¬õöâ”ÓøòïˆWÆbÓ ÷àQ`€EEnAaÏpAĞè£€„w8`ı”¡ì
+÷Sp…x?N#“¡‡°§Ìsë$ïò]{Í¸’5ãkşJÏôëñ×j+Æç™ûtT¹Eçê{¥ãZ7.UÃñúÎi3xiœëg`Ê‚,*çíñ=²­jºíKCŒh9Xl‘§.˜oÇw¥i\=ŠßÌ«ÜYf“´jÈáŒQ‚&#Ê!‹‡ŒlsKëì\¯¹_6¯ÙÌ97™”˜‘¬¡Òã³)‹Á-=Z²†Q8ÁÉ»4]ítúrÆ®Á»lgÒ¦½ŞYGw&¼ØN´Úë”3§šón¸ñÇ¤[N´Ûa ğL€ÊDûšcet,[®¯jËäë©J²IÃGƒ@–$Û¦K¶@ö3Ù´	h,É™/´.öìĞd½ 4§iD2U.Ù<X´kğ@ Š—`´S Vn…›‚Làì–‚¶ÓARÆÁ@-%ä«©¤Ùú‰¹2|a®6W…WJ(Ğ^µê×¤~W2ÚÍ9r2pÑIé³ı5ê#¡A\…o¼;€˜‘Ñçîät—;ŸºÊö9oİùìÍé…Œ¿“ìã~5 Ò‘}P°½iï~)È®¬¤®Ö¨qÂ¦ãr®Tô"XMÛ&ª"„ÛAmT~È
+ôxz(*µ>k´cJtUˆáíâµ_iç	Šåš†y¾„æ¿j¶şôñ÷KÄÇŸşrø§ñkKHZÁ´³÷%YÓ@’†ÎºÉ–İÎ³Û{/íLşkğŸH>Q2ÉòÑõä+‘]R¤½+C‰ÎÈh7ÆÊ ¿@¡K+YWXD×÷J¼µ Aã´R  ñ–Á™ˆ1Ğû•bˆàœVHÃ/«şn©nÅ„]8Ğ2ˆ	¼ÊÂ” =è–ŠaA@—F3’%X4~”bb']#_‘¥Ã>´;&ÓÅ3“ç:Úk“>WÑ$|ë!EŠ‰€@qæhE¦Ì0„F= P¨ÈIÿM<fÒq§ùÍÎÄC£,†Œ0ºwñi'*¼\4¿—x
+;ú¢\9ğd*7ŸõíÂ6è>ß‚ußÁäáiåS/$WÅòcg—tx„ÛƒUPL&8·?Ø©‚e¬#È3;`W+vf«ài‘©Cå€µ-@Úz,Q&‚6.Š¼ĞBÕf3.\A—ô{ÙhÃ%`öê¼Õ’|µ¸ÄAÄ¤Qt­®•sÙ,çŠ>„F_¥Í“ÂÃ"ëêäp;QwÅ}@ãR˜zôÂ¸Ü1+uñ?|^¢ø–½Ä™#”„+ºğ
+Ìˆûz% ‰¡ÿEß—dMH*Îüİ|¯.L•àı	ÿ]§¹vô£Z‹P=Z)Ğ\¨“Á0x%bùì&%ıyJkDÉ=¿I+¦n }¹€oÅaŠòÁxÿ…ù½‘šùzÅR…ë<•=jœƒÏÑâtÖEö5‡á Yw“6<eC/0Ï’İ—¸¡(&ejœ×E†•tPX@IÁuMR\¸ˆa-äÛ°/ÜCÔÑ:ÒİA^v)ve‡pU5ùm`yÀ7• U‚)ƒ;@¹jOAX(J0$c›Á®á$"ãJ$òM,'qªİ"„mÂh_U+(È¤Àu@¶SÄZ8:>(ÜÁ'«WÜŠ­ÿ•ık]È*>‚Q	áê-”òlœÃ´Ù	Yµª²zˆÃ[fù÷lÆıpêÒºcnÙ½wğU 5IV‚oîúûFëHra @îL²¢P\2ØÄ¯	R•ÛKê-Ä’¢±/`rƒÊRq+Ùa•\4ïÍÔ‰Ô_cˆzxtY˜hP‡[("ÒG _H+ÃëËĞnÇúµIÒc§± Eš¨Kr¥ruT¥ Ù(%tqëJÄõXqÇdJ¡?¬Zdd2™ğÕ{ ïxˆTØ‹ÔR<Y5[tJÆ~ÜW]u+Œ4¥C‚±Ù(Óş1c0é±†z‘ql¡Şø%"T™}#z=}6—° :Ÿö<DñTBşÓÀœ6¿YIÔÓZ4íŞÃğ$¥ñ]Jıùìı—b`Ë…ávwı’;: ¤ô£k‡8ásİ¼ ¸Ô‹qøuµ3Âî\œİ¦&#˜´ ]SÉ§ïìÑäVæj‰ÎjĞÆK
+::½t¶§nzëÈ…H=Ü¼¯*À@ulÍ>´±ã¤[T`¿òâMªY#·S;SÜ¥ÚLU…pFsE¡böWF“Xc´e›”@ë¶)‘]İ¨7S|ˆÂäÂ².Ú»yAï"’Pjç}zkÌ¸¢hƒ‹ù×Ô*iéÁı$Öı8VÅñëx„ñ(¬³’R)U<+œªÔp½	TM%iœfê¢ª5ŒæG`Ê¥ı`Àª‚ñrLÆ1š_°å­üÂ8×Ù<îÎ¦}!9â
+ÅÔ2nE§³,Rô;Gb6_¹“·»%„œz
+µn8o?+ûââÏMıï'÷‡Ø^©Z8ƒ,½D_L`8Y×s[Q‰’Y¡B·60M†­Å¡épDŒèTmD¹R_±J#ô_ã¡¹S/6AMWLçbI¯sÃcwwuoÖäIó…5º§¶­(<‚4ß“\Eáù«(îZè\‘ ‚àfÜ/¹ÿ¸*ç
+ ë¾( \êÕÉİeœ·B!
+VÀË®ÌO+Ÿ3o4‚\9¡'•Q‰úåR‡ÄÉälâa7µX®ˆî›±`6à8rX!wä wcÜkp÷t‚µj:ó'-,‡ÏG S“â”¥/ºÓ¥I^u;RuSn©T-=£Iá€2ŞúÀ³çF+%VãÎ¼1»	.M_;ë«›l¸g¶¼¬Zçé¨b2w5Y[?æ‡}Î©ßûÆ›'Û85óáû	§Äœ7ùœğq&»›Ùœ›–›Rä“¸LŞq6·[=mnÆsóõä\iâ¹ùñŠà”!o¤¤?YéMå¸r<âŞ—'HH·¯Á3ı:ÚVÌ[‹!úÇ}cm³	yAx¢|Tƒj©‡¸y·¡Ì²
+s¤˜4{wß°{.¿»ç_9ÜE0Å•^â(Wš¤^zÕİªfé­r¥ã’W_kM¿™ï<÷“¦Ök—JCŞ|Û}|ÿõyÚıJ/†Æç³uzÎæô†4[oí|¦Ù£‹
+'“œUÀæ`ÊèAb» —	}çHFEâù 5¸w>®P‘ ‚ÃÈÃÔwÒ
+vpz·I4o/Q0mS@·æ¼iƒ"(Ş±æH¡á©b)îòTµîª0EÀ…/Àfw}ˆÀŒÒÜ1ÉmOS0î¡!Ñ©¼êï¸^+b/ÑUïKaæupÚTeŸ‚£İ¬uÔ çüpÛ² $ÿ^4ü2í2½¤x9E<£ıˆˆÌ/w.^®i IÏœ»sñrM“È ì«/ƒáx£¡dô½éX?¸IçíõT½ßøä¦p¬)Ãê1L«]çïj_|ènsø½a±Í,Î¹Ãú¤^õñ„R™‡3QUjSäJæ‘®Ê£e@2ÃÚQ/š"ÆÖ-´öõÕl›rÄæ˜W9É8ü~j'.%©>îR4âÇPf!*¢†öÍˆÓ¦›ªjKvÓÏÿ L¸s¿
+endstream
+endobj
+526 0 obj
+<<
+/Length 1566
+/Filter /FlateDecode
+>>
+stream
+xœí[ÛnÜ6}ß¯Ğ„áexŒ}HÚèC×~+úàÈ»E¦@a ııÎIIŞ•dîÆ‰´ğf¬Å‘(‘:‡3g†QÄÏ;…ÿP"D)•mÚ/›òGñ	ª1’~²¡4*I?ÜXšd£•pÔöş‡İ¿¶»_?}hÚ§*Hµ².8íÁâ©”ò¼´!hcuÄ&ŸŸÖ<µoŞzRÍOx›ÛîV#Ïüá~ğÓ=>ÌOªÑĞÜï7¿İX½Eû³ÎmiPø›×x´s3hü½¹ÿyóã=Ş­)*FİğhoùAnùûÙdX%@â=2QGó¤ôè<±ıõ­Ê ?eÍÃ¶±8b-µ§vÂÌÓĞ&ÆØÈ'/jù·_&Lzû-¾qåvZ‚â„€Á»Fh0<ƒ¢Ÿ0›¯‹î1/±‹èşµ´¤Îè"vú1æ%v°Ù{‹§bç8÷xüX@xOË¿ã•Ğª4üÿ#
+p–¿l²™şNùÇ»ó§üîã/›»üâûÏšñÆnV‰t}Eú éû!b­gáˆ-{l9‰ÄÛ¬ûìM·”î½î[Ç1VÈáÌ‚:Û@uÔBªí*Qm®¨&TOÃrKïéÑÛ"¨%¿ÃëiÉ&×3şMÂ®ŞÁ{Ë_×nßösÄ^5ÂÙ œ§…™Á½jêu7ş¢¸àO¢»Ø@·¢wKğv«„7\áİÃûÀ%Zğ#=-ÏVĞ:ŒÈî–l‚çøjíÉÔ: p´ĞDŒÖŒ¯åÎ	ğÓh/ö%ĞnÖ›Ø+Ìi"Ò¢Kè#Hz„jÂ"ÃÎŸô3Úñç8ÂÉ<^S0î]ô>ÛÆ¥—S¦ƒ"ºIdó$°FJ"¬’îµ¸ "H](à™¤´İZïvşL:ŒG7H§8S)YÓõ™ùr2¢…xº<êŞùqºx/ü0™rÈ—l_‚0Şà­ca•„ñWçqr
+‡¢›ÁIÙXœ<ÎãËLağç“z’pÆjğnhı7“pÏæ%ĞA(Bû:–áŠö3Ğ>›Ş®ê ïñVI$Ğµ>²ÎÈ^hÛDbHDê@â‡í˜Á9(±ÖH$•‹:$ªìÑÍŒ‹
+À EËiQQìFã=-BÉ¯SBÇ+aÎ Ì‹`L]TæV	ùäjlêÌğİ£÷…HÉq—pªäL’4Û—à€A’ÂÅUr@YÁºİ9 á/˜ß@U¤@ª6bJ>{¡dUa
+ñÖ¥¦EA±/xkYE»uf”TUe÷ şÜuŸî—–|ìµ­€Ò……‚Ò|ñ¹d»öØJ‰'ŸıÈ02b1t-iCäú\‹ƒÒ“!“8ÄIòûäñ–µõ+%OM±øJ¯šê”?Jš1uMñÈ4ö‹}	ìGÇú{]'ökJÊØ×"Jà¸TìçbD‘ô ’lÎ•úŸs©¯£1XÇáHItr}To·üèH"”æ÷AãÌÏäc³}åXpÃ:·d¨ªªõğ9XlìŸ‘}_¬>•Eğ@bP²&ñ YUœŒr£¢rF`dû(7%µY«¤®)Z¿”ŸY“.Š q€ÒA|Ñäö¤n+i—ÉİQ6·lÒ ÜãqKjÀ…Aª–¼W4ÜHÕšÛMv&#>ÀháítÂ©Ø—`*’ß+İĞ¡ªÊØo€	eÖ¥8Ç¤âƒî·ÔeK_y;6¹a…ùØ‘ÛÎÙ©Z·İÚÕLÖ5Û— ×ÄcÔk•Ñ5¥é:)átWı¹T8Å;šìQ ôõÛšNÃB„s´›µxi¸*8^©«Ûó” ?ã0²}	®ÄÀ²[¯Uv×¶«†oq™Tù[ »ÍÔsäà`gàs™Ş×ÎyùÙÜpj^PgûÜ XP«µ
+êšv7ğ=«‹%ÇiØOùÑ©¥ÚvXm(ÂbÛPîÕfì‡©‘¤Îe³šOûE¢Ïÿ3Âé^{¢D~ÚvımÉõÏ+äÉIaMH3³$Û¿}Êç“`q
+endstream
+endobj
+418 0 obj
+<<
+/Length 3045
+/Filter /FlateDecode
+>>
+stream
+xœí\Íä¶¾ÏSô˜æ?E`±;‰8;· ‡õ(,¿~ê‡¤ÈnŠ=»f4p{<K¢DŠU¬úê«¢ÔIÂÏ
+ş3Y%¦(¥r§ùËÃÒ¢êd$ş›.ä“
+n5Fx>ŸÏÊ“õBã¹ÿğüßÎÏıå§ÓüõAÒõ¯ó¿~üå«:ıã+Üók¹¯3†Ÿ«gV—áÉ‚ŞíéqyøÛ‡`¼óçĞæƒ×OÿÎ>úgàH§¬šÔéƒ–Ía0!Â¯-73lnıäU°£6p]{7lağ)0¼º…¾`˜Ö/Ã'¦7Wø(hLõ3œüûéñÏ|„9^……“Ñ«é$;òj’&jå`Œ:X·	«Tğ6H7MÚ8á”m³Dêúã‡æúàC7º;ô Âd>twşÆYßiA£öN›
+oÕp9hZ^
+–š…[ËUÂö´‡…9l«ŠmKğğ×Á™ÅÏåÿ]0xCgöT´BFkUšÂ_KY[Ïßªõ©,\øò`”Vªræ_µ~şôıÚóéç¿<|JƒùíªèX+x´Û½ã‹n°c'dûuÜ
+À›×ÓkĞ2t".€‰øA9V*´D¯%¨à‚şC“RÖMŒA¢Ë@-#İ¶ğw¿sˆtÆÂOzjÿGtÖBLŞzÄ;C`W1¡ï†š|ón….páä±€O]¼o¡a(YWÅíd…¦~;ÍõÙÅôŠÓnÑ'›zé:˜¤¦4ùN‡SÏ4“èš~é<_yb=?¥„MágŸ«ù/
+"8GÎÌÁ¹#ÇLRÎ€ƒdš†6Œ-K“¤Œ‚q8tuß›[4îè>åîÉç|<k8p`ç<9k‚pVïêš> Kë„Ñ~ß.ë>°Ë(ô¾ı_Âyx†„ôe§zFúí•\+9z/ËÎ<Šl²Ù`'OiÑ?‚¹åòÂş/ºH^obÿæàŒØ¨ØsÂ36Ö’÷Â®:ÜÙ¶fV3ì{Uˆˆ™'e	€(ˆÑı
+u«Ã€X @ë˜B÷8ºã*ªuÃÖ#íAÿ4ÆaIoBn›qË°?KoBïŞyF7;BıAï]½ã8~ğTjw£EQSVà®â9 1‰ËlÕ¾Z»tdĞõJÚeX»fZ,Ï¸ÜİhR‹H‚‚‰
+îeàö\–h‚Æ®œÔbË„Ï5¸]ÖfÃ©	š 1Y_0†˜; · oTÂ:ßóa Ñéúì+Sb¹âZ‚·L+ áWA^I¸şJLÍÎëT.„EgZº0C]+%¼¹ÓKwPzlPêÉšØHk ’å1eõƒ¿‡‰%JQ!:K–Ü	2HÂ­íˆ­tGÑ AÖn!ÌÑ_4@@Ù5&-?”WWÂŠ -áÌ®è´î:ÔF˜Æ]{¬ûÀ.!${Ağ·ã‚È2¿¶¢œ™^2à™4¬0	Ñ1|nŸg4Q¥a­¬™'-z`pbE?³KĞ¬!e68„ÚğRBàÜÁ*@²·=Í>3Tã|t‚ yƒ‚·tÕûN™‘	¸°i6Óì\“?ÉUkÚhN”[½RQˆ1 	%ÿT$›mÈmÿlÑ~!²E±°Ù$£,çØ‡-9ônÏFÿš
+ÇÓ¦ÈÏôöhE±=aÓt31em2­„K†µÌçD FVª~0WdYÍs^"tRsàHLM&a‹±‹R ;ºŸ¾££ß9:úÊn²a—ô;sYÑŠÉí›@júøòà¤~g’°é»ô ‘öE]^IË	@Hï½QvV3Y#b¾Î*O”JmxÎ®N9Y5şÌ(;9Ò-ÎÎY¡ª<Ur­ÛšÜ7aíÈû7°¡‚wº‰ÁO€Ì½„e=M`w–9@!€hªLc¡	Ç\Ó|
+´6Ñ3ù¶ÄÕ x:!f±[XE:1éÓ!8.¢KLa°R)P	ÈÿSÕQî­t•ƒ	7Ö7ÓnK	¿–ËBğã*>«.ò©°²‘\3FòmbQ÷—ƒÃpR–Äò:c¿”ä¦uO·ÊŸRê:QºRÖÊè˜˜dMÏKä©Y?ù7%#I`¦¨?¢ÎHL39#ôsJ–»:;_ÃÆ=%„š¹Éé!MO8™xÃJ†¬×ôr‹¯¦ƒpm±V¶µ	Iå¹zğz`ÓƒfÊ>"éy!`JÑM	ÑòÄÍsFç“ş4”(#Gë›“\¶–ˆŒ}O
+G`»Út£Â Z'½r%Ğ:xbq¾=¸‡(÷åÿ­*Èà;Ì¤ğzß ¥éºÔN`=à®]Ö}`—QùªAŠ1ñ)KíaôÙ¦Jí©¸&QXâ—¾9u6 ¶7SÁ)âh<H•¥à İçÊÎÍ¹Ò ÿ7¦{u¢X›O%Vé¸|}®Jçİu5åŒ¸š™ÅEô¦Ğ_nŒğA"â1,W`8W^sõ	æòÛs¸àt†g&Hœár§LÒé&*"ºD0ªŠ8(ov1Ä~~QØVİI)\Ï`!úh09şj€V)îäÅ‘‹x¶v¢ã\\TRPÊô=O—æ¨æ¼ÂÕRºn9PoŠ‚k½]üYìÉà A/ØÊ2ğ«æ²-—’­3J ÉqÕÉÚº@¿F«@S—®«MIç)WVÓ†@KªÉöl1ê¤ÀÈ­Ìæ"Pá¸ÅÓe¶}¸QûÜá1ì=r¸Gß9$ÏU ÓÛ}kƒë.¾<X@ôûV{T=`öF½WÒÅÁpï;.özPÑ1ah„S-%>å$Eãl,:‹KäV¬Q’ø]›
+
+úÊ<¡ÄÆ‡“á`h¡ÈK#ßİáŒyBt!0|ªi³nÓv=
+²¹¦škHn^l‡›£¥9zî¢­¶5ã^ª£Ñ+£®h-@»,,–‹;q²#Pƒ>íPß-¾‹>íà(ZBçâdé¶¯µïxCvñåïlÛ÷˜ã¹ÒˆÁS¯–×¦ÆN/–«Û~ÊÅì\­‚k ½ñ;©½Ol‹-ÑgÇİÜpØfFbŠe9ÖISdø¼›íÍÍÂü:/VzmÀ‚?nÊ2íÄ­CtJ0.œÉm\zÉÖo~Iº¨‹teÕ˜	ª¥Ü|â„tÖ‡RğVK„.ÓîßíM¥aRİó?ûEq}¢øÅ}Ow<^DÛ-9n‹é³¦çpgR"Ê‹Õê>°Ëwì¼£µîƒ:#Ü´_è­¸Âœ}`®›‹ax{à¼f¼¹Zúk“Ğˆg^›J¬’Õ^ë‡ëİÿpæŒ$ ÷©²Ä¥o(¤* ¢wñ+ùôğ¹)JF{ƒ(´~{Š}¢ğ%u9½·ŠBû!÷Ò`ãARfœi¡·œ`aØ÷u–#rºè…CxŞ*ºÑ¾lİ¾Ÿš
+ş‡O[÷”xU×·åŸ¼ÎÓÛW´£vëz§\±©í½ìŞzvõ,Ú´$êş] ş‹T+}§hj?[4UKÚLÂn¼(A5­÷»Ty«¢èƒN:û¸ıT–¶ÙA|&edjİ<,EN/dş Û×_nN)†kòÊ¤oÉm=vè:y°Hh+ÕV>Ğç¶¿2DççTXI.}˜xRq¶Oà¯YÌŞ‡/œœˆ	—ND«®y{(®/L@ú´ĞZêêH¥›E¥:ˆ€6ş¼n"ì~PµÛõºÓ¤øU¯ŞMï8:f.]Ÿ]X¿ç”sÌ‰g§†pIw2g¹İeP6$ã°¦ğö¹ü%İ$šÖòöBoé„¹µ;!X¹5ù¯|.Ë}ú;«JŸò1-ş@l·¯R½uûÑ²Dc µpÙNÁÍ¿%ÕNØµh‰­N½ŸrıÌ'Ë­†íU‰EäÊîÍú ½é„êƒ\R…4ÏŒ×%Npİk|åŒZâiÓj_ïQÅİ§©‚şÂºw>°:0ãVCl»•«G«şïş>Y
+endstream
+endobj
+316 0 obj
+<<
+/Length 3185
+/Filter /FlateDecode
+>>
+stream
+xœí\Ûä¶}ï¯˜0-ŞI`±vyàì¾yğj»ƒ ™ Áñï§.¤DªIöÌ8šQ{×ã™^I‹×ªS§Š-&øùNÂŸ`¤qš¤}˜OÿI?’
+È=áÿéA¾)ñƒîå;ğ«„Ã{ßÿáüßÎç¿şôÃÃüå4Ñó/ó¿OßÿôE>üã¼óóò^Cş‹:‹G¡æ?dóğñrúÛ;óù=<ç¤‹îìªÉ»÷ÊÂ}ë•×pï‚wÆOo¼‚ÏJYzvvş­}„_ã¬ã*½†fxü	ªBVMÆ»è6î‚½zc€âu*õ	îO$à¨JciW}Áòßi¬<Âm	’ñ1´U§J@ÜŒ"œÄ–¨	Zò÷‡>ıñ#ŒV+µP†Gşçjñ¯ŠÂ¼ŞøÓÎğ#âşñx@óiĞ›ğQ(å¸›f
+&•´0hÊ¯#¥wÆO6¥­ŠpËÅºØ=³Ÿšm×P\¼éZjÕl¼´Ä¼õöó3~§¥­Ú‹·hG½ñ¤!+Ã_OiKÚğñ´2ğÕ¿ÊöÿøáåCÿáÇ¿œ>¤FüZ‰x<Å  Ø®K'9)aı^]äŸéÑAØÿ…76A úµ bœÕw©®Îå•¯KÆêÊTW¶zv³ö0¼0pñáš…âÒÉA=¦/Ñz±‘7ÚF-ïõj0nşºÿkI=®S†åR§û"7BÂÓ'€jí—}a§ıN$^®jí—UıÖm®>½´´˜ºeUµÔL}UõÚšQ=£My½(Ÿ¼d«ëí¯¶z»…Aû®çºß ó¶¬**ò„d»02
+	EQóJfPºß"*.Àuù–16v‹0––`÷œa9Àî3ÔèZcM¯{ä!àUBı Q–æúgxU¢£`$» 
+j„Ç	Êƒ¿ ¨ÆiILôè+Xœ¹ÆH/…™»¾Şo€÷å€7/ò„a³½+ş,$€¸8‰àöEØ•i„ßb7¯÷B"àõoxkÇˆêXDçöleŠKP¤¤ÉkMéG¯ ú¾ñ+Ôlº‚=(üˆ
+ŸØ›3kelšöÁ{†,-vl! †hv2Ãw5Úa‰ùºöÂÀùqŸ6jXtdº~Ëè#6$ëk‰¤2÷‚*Š[š€‚¦)#Ú*w4A¼L
+n®E/Ö/aa Ìê•ùBş00š†˜É„oÔÁíÄ¨vB8»âÃœ9ø÷–˜ì¨iˆz¤§›:EÂ{T*v«T”l*•··›*ë!^ê 8o)™&Éã¦ºk›@c;U”kk(:†~~&œÅaZHhÒu´AFú
+·ÈÂ‹§ÍÅ”vw2háK_mª‚ZgbİÉDŸÛªAxmˆ¿ĞØÈ¸~)Û¥«ŒÀ±³îšè–¡á‹yprX‚]š+İÛV`ÏT\É{PïäPÑ”%ÿæ:’TcGõ%T1ÊOT=j²¤zÂ5©x¦tÂñäNƒ›.(’.æ4‘<‚áRËCQNøŠEÁøvêuËáTÖ«Ù’ÕŞp^wu¨K‘S›·ùKU3)	Íª‚>+G¸ês\'ANÉˆº>7b"¨†ÒëyKÅ±àmVË~âÑ-mYU0s¢ Qà…SXójô(ó,p• Å´¨¨àMï¤©ÎIé±Jh²±ğUA!¬“ã—8î’Z¬WdÕnØ·6Œ5Hy×8¡^C’ÓV&­+\eÔ¶êá×}ƒUÕqÛVhŞ1mcªÓ¾XmïB­y6ãyn[SĞ×ajêy­YÕw~å@t²V¨]PÛœYOÔ(ü³ih&—Ò¼˜ûÛÈ…¨3²'»KÊd«
+Û@Ïjj#”|887u×¤ üŠHÁ5ı×Œk'¬ÌÁ›~Œ‡%Bƒó:Æ,†m²vbl•8WV’™rÕAÈIíËò–2@¤Óæ÷•Xˆ@ÔÓÎ},e€H'…±f_‘¥…Ò;óõ¥ŒHh!÷
+IÔkØGÑò`÷‚§m§€S	Ÿpâ#Õé%š§ÀAˆ[ÀC+ø»d3êÅy`ÄƒMé~,°w\/nön‹®®YÍæ„¡Œ¦¥(œg ¾İkzÄH™#f/I2êd,ÿ€9q¸¤Z¦K›hP˜÷äİÑ&˜±!ÙEI‘øgr%ÁWùä­ÑW²3:¯Ê•ùÃÉ¦ˆ§¬WÄµµHO~`ï-ãØ—÷ê–êfë¶ä­ÇDôvJq-yÛj»`+ºO›ÌÄ@jv“½Íyİªãph¢çŒåUGÎ£$ê¹Ÿˆ}¬X×–Ë1dRúç©,‘óM ™¿¥zB <*Ñ£…:şqĞBÅÃÃîoÎÎWïì´"Ÿ”3“–xF¨`àäÎYÛ•Nb‰;»7…DØÍ½yK–xux‰ü›ê¸ä™-w&%	¬£A›7$%AHNVøìL^)Øàó%Îèu2¨`1œnÀ*æÀM>¿DöğšÊÆ³=äæ&2”ïàu) ¦ÖÒ? G|3Åœæ>0X¯89¦ûÔ§¨Õ:O$iPMîHbİÔ”Ò¡ºµèÕÔvË”Ñöç@tËVŞ¢­–Y©}§¬0x'cÀ8‡5kE6¬²ŒØ®©§7uæ‹ğƒ£3€ë ÛÏà	ÃñTŠt`F Üó3èi937€–²VLêğ&ÿVø´ş/@+±ÊœçR×”'Ã<—ñùäí¢ÖœfUéÌj[‡†Li/¦v°3OoòîIøFÙ ¢ÜÃU2@¤Ã’]®@œG†åuÜ+³yËùğÕÚ¬D…)cé¸
+	Ì‘ï¼èàkV“”1â¾k4Ètir›]Âƒˆ¨ÒUZÛ®‘ÍE: £é#C¯;"ËDáÂ\d±Ï$®Cm$1ÓK¨G…LN‘ ÒXzû–	 ïÁÒ€¯ ƒd´´^İÈ„í½Fˆ8}ÅğÀéşxB²û,!•©í™ÃİÂÿÙm_ƒzV¼«½Éè¿_ºHßÇ<î*Ÿ¬ßi\vÃçÕr|^†ÚÑ¸ÇäW>5m‰Î8æL(N=ˆ'ääœ'&ó¬àMùš|è8…
+uñJûi‹mÎ.©>×
+¼Ÿå…sÇMYKÃÈ©Kê$ñìÉ_‹›œ>&iû‡Önœ¥.ÉõĞi¦ğ.¹!ëW¢¸¹€hÃğ`/c±›İ=™&Íöö\Ãw,
+mâ³ûš.²³ßzÆÊ¦àLñ‹”À‰SØ­m“OY²ÏñƒOûª–=“ÔÚ,üİ$©¥åÖ~ï¤”ºÙ‡v¹‰ËÈŒlwK‡(JûÛÙNƒš\ih(Î6Ú—j¯Y¦ÌdWm'\ÉIDkT3;¢N£*¶röâ‚€Tİn'X³àZÌãIOà>:³·à­l„VÖ‡ø{ÌÊ‡–lœ-ŠB6ÒïÍè‘e?4½¶„o9 Á	Òé€ÅS#ø™L¹#ˆĞ *Ò	ú*.TkA¯é>ÏËiu§.-ÎWqP€Â¥*Y¿PÑë~ûÄ¢‚ı¯nX„™9¦¿ª”rõ™ŠË[Ç›»/6CYtª»ÿJ¥§ûå|JõÕ4r ‡5_†ÏiSSM¿$?jØ–:]ãxê"VÒòé:–ÍúQa:Œs[@å™U%ôfö¶ø"C¹“Å¡ÕE^e½4r%;§­ĞSÅ¸“VÅiÛ'\Q”9í2“•ä‹‘ÇkS¯,ó ‡ioêâ²?I
+ƒ"ó|lYu}Îg±\È–¬`t:ŒÌ®-9şâ€ƒz• –˜ß
+ÆMtúœH'n^u~¨Ã4h15Mâ¼Üå»•òÊ„åµì‰§«íB^i‹|ÌMmÏµÑĞ\÷²ÜˆÍ£]ícZ½áŸÄ$Gû-q_¦®†¼?Aİ¾g'ş+J¤;PÓïxÁÜ=ë´š¬R®5.j©|³;©AÔİ.7©$~äz“R»×K×u§úï¤³09bµdÔ÷…Ì„t=xÑÀû<”¢}> Ñúú‚¾°p–è…œú­!˜ÕùŞ(¬†ibÄ:M"Ù ÌÅ¦}œ•"OF	xuß<×BpÃxñ¾ÇÛ	'À"Úï{h°ñxrVÄ}'° â¢pš´Êï2í$£Ú¨nb=@c¯Òİ
+Ü ¤!4c“ƒ´&úú*»¥ÿüÄ:œ€
+endstream
+endobj
+64 0 obj
+<<
+/Length 3170
+/Filter /FlateDecode
+>>
+stream
+xœí\Ko¹¾ëWè˜Ë÷0|ØM²@6ö-È!Ï¬²?õ »Én’’ŒôhäÈ²5î&›Å®«>GİKøy§àW´JÄ$¥r÷§‡»çEÔ½‘ø77”›
+?è^¹ÿ´ğxï‡?œÿóëéü×Ÿ¼?}½“Ôşõô¯»~şªîÿùùey®CÿÇOÕ˜UÓ'ùO@ÙŞºÜıí½µ ı½wÁéS°Şiú>ÏpŠïƒó_J7í/ÁQ£ò6ø÷ÚÁ}åÏğ¨ò‚‡à>ii?vò»ÀE7`ã#“óˆá¸HØú‹§ÑƒÄ;Á@;Œ-i¸gñq$•p<Fù“ÆùıışÓŸïşø	øRŞÜ&/¬³Ìä_–áo„½«‰ç-‹€ëª~±üpĞ•ob/
+	YÜz+á@ğ°…×'Áu¢§‘ÈG÷õíı"!óÄŠ ™­pø‡lnæ¸SÄÙøHl&ñy’Ñ)ãè/ĞxÆ¾œ´BÕ¨İ‹¸¿k½Ğ×“I0«ng"£ó[^V“6*hIø¿½gfƒµ&g«9!«€Ç'5%P²9eS:{KŸpæ y¸6Älàï"°Im‹-¬m–=tCù£Âà ’¥9°#Œï‰Åö?í]o®h(‰¼‰ó!3ra½%Ié¹¥¨46D’OüÛ'äû"XJÑyšú=ÒC¢D•Ï]i¬,W"Ü0¿ˆv`Àk×‚“ì™Ú»!±Å\É6Hõ³cN¬§h‹·ñn^¼Çß¬«¿Sø’ÊÌùûj<M‘>½É%öƒl5SÊ&¹4ï¥„ÎLñ
+WÌz '|ì‰ÅvNí]Xd®¸bÓ[¡ªjvÜİ¦åÙæt
+¼ûb:äóÈÏäe»,šÄå¼çõço“ñ‹»sìV™cÑ ™ëY'”šÇÀ¡5ä™×âûFÒPF×GìØˆ‚îW\Ô¿`ÂW İµ¬ÌÜ•él%ÏöZ²µSV¶Æl›l(®–%/^¸°•„VûYy<•VıU[ÊŞ²­Œ¼æº]â¾:¦ªtÉSuÊc
+Uëk¨ã]àí…Dğ$«èğÍ()’ÎËê†BEi’Vf®ƒuğŒ°JXU¤‹Q§Üò©ív óÜçşä¡»¾ñ©İz!ÚŸºëÈ¯ë¯YaÂw¬0Û•/p‚7¿+¾HY¸û —VDùò·ú­úøíoıñ§¿Ü}Ìóø½¥$µ^êcIÖ4$$üÉL²¢$aå3ÑK²¦$£Pá`Š+	 hµ€•ğ Šü³ÁÅ”IÂ$øc_ Ë,üN€‚«¨0°­¯(ô80÷":3€N†¬ÁM§h1·ò0ù*hĞtÌ8{ÍIğ:™Ê³‹Që&~tœÇÕƒ 7Êk‰Êzx!!œúlÏô.9ırvM#.9K¨©‚‹Ã©“DJB8¦{û˜˜2A,.u‚·C1M]_è¢±9ÏÈçzüäçœp(‚ÊÎb™s¤£AáC©½]øPæeğ–a#T2â2cƒ*È}(y/A"ŸÑ™{Ÿ ÆÊßpÃJ[ wÏR>pTÄ›–|ÏãKòHJŒ?SŠz! ÆpV30 ‹|7¶xyP0!“›İ!`ùddê%3Şş¢²§"õT†¸W—À‚Ìf5eÏ9Ÿ‘§SŞ²xÔŸk2N¤Ïm—±\pñìÊåpBÊk®¬›+Dé5+é¢ì¤ÀV³V0c³É£_¢¨=ä d:Â ìU6xïVF`„‰°S«ˆ3X‰ˆÊÄJ”º]xXéÿ±‡æj|„ŞÓÑ^…­—³àPÑAh÷p—¯úï8_½İ©¿b…1o
+ó¦0ÏQ˜ø+Loˆ²reDCÅ$Œ<kh É„LÇÂa‡;-¥HñX8¬¡$­ˆáX8¬¡$:˜bE	záÜ±’lh IƒØƒ%YÓ@’QÀ¿ƒIV4€¤ÑB]fÔA)„ÃfÔª¶¿¼7ÔÅÊŒqwˆ¿aÓ¹ïaª.êó2Ë$üñ[^^²}nÕáZÜÒEr9M¢ÔrM*šK9ßÄD?V5'»j!Ú.	&ôp:ƒw¸³\G,(§*¹(©Y[!x@àµ¾¿ SUu‚\ãÁ¥œ—\‹#jğ²´TÅ‰†A¬Qû’ä’Ì*«›n±¢\Ú
+"UÙæÉ¹B“Ñ£P‰>«_4t@åŠ;r¹í ,Eµœ›Š/EKm)Gİ˜A Ğ bIvù°bˆßnsç4zÖ¸_™İïN5É…kçÕûv9İgB8oîdML·±!f«òãHö\û²o«w"<Ï-(ß¬ªp¦T¦ïdÑŠa‘LGÅwôKe£ÆÜˆOİ—f×{w—RáH¦ÜV%§\ªVû]ü_³ÛS•Û÷ıƒT>˜IãÇûR6‘ó ©ëşÃŞQê“!0ì£¬·àOiÆÒfîäbU½ t#şj2·ÔT¯ö¡ÖyíÔz ¢¾c ä:f0Ş‚£˜¥~Ÿ‹í›¢_,İ,åÉa-ºwË~\S¼}¡íÒs^t.å$J×a§HÁJØÀ*x&Õ4+qÂŒ54dæ0DèÏŒŒ·a1õ85-­ziiØ&œ«¤\ÌM·¾T·Gkr`c«-ÏK®‘(Ôr`Sí±QÑñnyzND9c÷Tú6€»uïÛ÷ÛœZ˜ï2z+ºÇbÖÖNdl£ye)„İèŸF²i-X+Ö1ª’WÇÅ|Ÿ‚ãå´ËR–Óó^¯	h;ì¡½l¢á,´pŞÃbs…Æ„“råâ¯êÒÚ]ßå*Èqò½ºšŒ²éi
+i:·´GW¢Àãhæº¹jhúvÔËn®Ãù8¹¥ñN)aµ`Ûq'oİöÜpùôtÙéFÎ­$[Şµ3×S®ofg¦}ÍŒ#Á=•ë·<xâüæÛŒÛÎ Næƒ3oumØµtxt:ãÖVô—ñÕF¡İyO4°CZ3W°WÒÖ<Q ­™áB'ÀßN­iw' ,ÑAâv›Ó‘_]­—6a²¶S¤YNNûå¢®YÂ<ıÒ;Ó…â›<»3İ#Ó1|ëÓ¦ÃR5ë´GµÄOû]¸”{Ø¾Í–şG\0Ÿ9s{FMôm!1ä¯r%<×t/R:º4ãØY(\ŠüØÙ{¾V‹€PŸ¶`ÊAu°–‚¡)Æ‚ôZ“‹Tb©ªïëëjªå:£n´6—C~ŠdÀB­	¬OÕ%ä[Í)ùºz¹Â$!­MêÖA¤×Œ½¥|S˜g)ŒıÿQ˜ƒ<%FSqè%-—ĞæÀØ•"ŞwGsfğé¯i;Á¶Ó>£¸õ ØdÎt7@&Ï>ê5éQ“yô5)ÈœRãÅ:¥@sJF‘’œ(ã¯ëB–Ø¨EæVæÄd7Tî’ÇMvCÈÂ‡Ò‡“m© ÙÙ™=œlKåáNIˆ}c<šî–V4ôq„_ô€sB%rú½^ñŞĞ¤}›ôLº’Ÿ¶–doÔ^ïÄ3bëò~Áø‰Í—éÌ^³ä7kÁÂ¸÷úİMkéÙ¤7ÁZ¶,lYR†“)ÇJùXİ#œ/e]|N,çAßnŞÄñª²YTU¡Õ©oõ·5šÜ¤P½Ã{.5¥ã+ÛÜ@ø^åSN¬ær |6/RÀß¤ğ î\y¯bT/øôÊ»\9ZYdbËÁÉgS5ÈC.ªªd±UÚS©èœÄ"É¦øáÊµL [RÓùÆÊgmíNÊ*…–İ5”™»c-õlùk·²2,k“É“ÿ<d¿~ïË põ©Ó¢ÌùÑR¨÷Ö—oşë–€T…iÓ|a=ğ^JÜèØ½YÀ¼GËĞßš·"zÃ/$€Ğ_?Rßúb8Ü¦’/#¾Zİµ\‰ç¤9+l^˜onÕùà•7<îMaŞğ¸«ãqÏ9QÚb;Ù#–ÜEaâÁ™MHz/ÔÁG@2HOK²¦$Hî`Š+	<¬D0Ç¶lh<Ğñd¯’d7wÂ¯+¥´İp…ƒz»|çOÎ*=Ô¨¢n—`–Ÿÿ¥´—²
+endstream
+endobj
+11 0 obj
+<<
+/Length 3051
+/Filter /FlateDecode
+>>
+stream
+xœí\Ûn$·}×WèBóV¼ =ØIä!€³zò°;š1dÄ¿Ÿªâ¥É²uzfdH²%M7»«yX¬:uéU÷¿ÿ¤ğG°J„(¥‚ûÃ·»ßò·âêŞHú/Ÿ(ıÖõx9‚ÿkáèØ>şïß‡ã?~şñşğıNòùï‡ÿŞığówuÿëw¼æ—zİà¹~|lîÙœzÄ;ÿŸÈŞ?îşùÉš<ÿÉÜÿá¥;8x 9|òÁEo}ÔO;-î‚}Àg¤kÀo]tGçñÚİ?şíî/øTuÖF	]šâ/üÀåû·~ÊÇÑ×7WÆÑpŞ)g‡-ë ?âÜ ù+L§ßN1.'wãZhx*áö`H@	¯Ybu@áO‘J­;yYPÁÓˆéŠG¡y¦^x§!€œ°áy æF´:á¢p»T¦ W cL…r¦€çÍ‚.È´i—a>ïã¤‚ŞÌ´^Dı‚­´P¡¿AOŞ¡["­ŸlÕIÏ`~@4bÃJÉ(ÀÙX)ioš˜ñšv®6ğ{™M/;T—Ñ‘†1d¦\EZ+»7V(…Ö#×@*‚DøeÖ€^OS¶¡‰CúˆˆÛ6hw_V8„TuH{3V4³†3Eë§¯ÕÍºBÈŠBvù ŸÀ'BÃ^wÙ¡1ùhî	ˆ¦Mu¶‹¹DÁùÀ·;.WiÏ:Š'ÈéöXå‚ŞÙ°âi¯gµWŞvÛ®1Z¬„OÖ7Ş¶jÙñBÑ¾‰Ş9V¿ÀÀY3á×Çª*8²ôºÙ¤ÏªÜ”ƒÉ04X+‰CœÙşëƒbŸŠUÖÉvw@à›7l6ıÕ[âXdc…) ià$î%šü„%Ü H#m¾$¾‰0‘Æè†»×­HŒ¿Ğ)4ùÄ® Cm¼GtK
+ÜÄÏ‰dä!<‹zZ ;@–}W}’;í¼ëdgj-Eô/‰œ°ˆ€¬†=ŠÃüëÔp‡jüykÙ·J‹[ÕBGìŸê^æ¸)Gœ­óı:T!å0\šğ3ôÒB#°Jß†ââiâî+ŠƒY¢óÒ!OrõtBi¢V€7ÒŞ^"¬RŞY/!m@G<äb?l‡	9\nü–Ş˜/ú¤Ol4NËò§EÖG64Gâ›¸Ì@Gj„íÖ…¢äHú”Í–e²ÊüÁÉx£Œ3€?õ„D'¸í´ªhšIèê‡hFh#8£@sE—6ÑèE´… gúı.k€²¨¢ßîŒÑB£áÿi§öÓç·«ÄçŸş~÷y¸mP9õı~ÁˆQ(¼#bpaºTÂ–ÊÈ%wÛ Mr-‘ [•S2.]ó-U&†/ÏJJÑR^c¦su®Y¿^ùÜÈ8yİ1²zJ¡!^ìœ¿Ê›º, ÓSRl„ôÔà‡ÃM
+|jÂÆ}Í&–ƒÒzŠvD²“ÌXÀ˜H ]ĞÙ€yEK!¬õ80æ
+ĞÊ&JLacVæ='éDMA6<¥…¾h(s]ÛáÆeO ˆ¨²¨´æP[i˜2‡•‹µ ´†[Tâ¼-Ì—Rº9rDøªšóOSF•änJÃZDO÷Á`>¶'/ã,ûd0°Áœ/Â‚ãÆè”`÷nMs´b}"¡ór¡Y@âßm´2ó•&l&	‡¿\¼Â÷²¬PÚÂZê£=ò°Lª¡Í–)q‡JFjìğ>RB°Ò²*IºLÈÖ¤K¬™õ¾4Fƒ+@P’¦¼eš*ÇX{ƒ 5ïÔ0
+{ùü¥ ±—8YäPÑzE“o?ÈF&ggcª9íøéq~W6jKî’ñ’<”¨Ç—¼œì!7o7.™ôZ¾›<±Ìäöî™é¬ÒÙs6îZ¹@ª,òïWß„ÓÓ› @¦Í}'
+*
+\:I†mmc¹pÎZ'ôåÔ–#ìaÚÏ
+ƒŞL‡Àò‰´ ×ùä©²æãœÚ8g2)ÑrÓ>5*OïËzµ!õÄÅÂ6eĞRB7»2§LÉIÌE#(µ·S©˜m>
+;õéˆ¤Ã§6ÜTÄ²oÒAc’‡ê:sA<¦œy:ÆSè®l_‰KZ63Ö|š¹i£8¹Ì™ßUF’9Ô„¶Üé•.v²"JD5ZÉeõG}LvâBëk£ÉÎ“2ÿäÌW]NKí³:ñDl<é~x-WšéoGöd!µØ:Ìî1ÕàÛ1›æâÿÙ
+kf_ô… ‰Öv…àğÉ÷G£»$¡ãpà´dxjnÅ3²Y“+ÏRŒĞ•S-÷ÈAaLa 'LÓù´Ş}r‰9œ”#ÿœ,òr¤ú#ÌÃ@ù•2—¤q¼ñÚˆÈúÓfçy¦ëM€ª¾lˆÆ“Èd­SO[†„ÖÀNTLªKÇr5*]S\`“œÌ4y©sC‡‘kVòbŠ?&ØDKÍp{()Gä…ª
+—d/s«ÔšY_³á5¨±¼[tEZº7›u–µâìj9áP÷Ü³­l¥ SŸ³Y¿HdÊgCøº’Åtá‚PÃ-†ñöÈá«”|½Ğ«KQ4}HÜ‹­+9Æ¥Ğß´Y³Ê<¤¶Œ2$Æ”°
+ğ=èÆrš4nŞßv‰¾‡ët£†î…/	˜›}t×­ßêïYaÆõ‘…ùP˜‰ÂŒë¡…Yó0+j…ï÷»äºJm7PS–Ş©¶[62Pd4BíVNÎ"[$ÒéÂÎ"ßî,râ¸ï$[$0oíÎ(’JfçI¶2H¤”ğÚWd#Ej+ŒÚw‹t2Hd•]¬ã)´Ó«¨x·ëÖ­ˆ„C
+ßO4İ6¡P(škû|S¨tS.£¼Y³4ãÓ R¼¾P–\ü`µ14÷yŒM3HJòu¥Ãë§J¦ŒûS¸|¤»˜9õ¯¤ğ¨y+f€¯–:d lÌCuìlŠ·‡Ö¶É“˜&¹Ôw0®ıÔ¼hÑ„ó]Šs°äÛ,MJÏ²NAXÓÔ
+e¿…2kçR[(U @8eU(%¨åã’0İ³NjÌàİ¼É9ğMm~…ê©£WmÏ„—ïàc©—lÜ3ççÕÖK_Kf.öwËÇ’§Û–âeÎÊRZ5lÍï³*C69%Ér„üš´†p­ê<%SsÑı;T¹å¾OÜL*‘]z9gì¨ÆÀÉ8n8XRÓì ÒS—ö¥™yF‡.wş-a’åı»˜iêÒİ?du[>¥EI]†cjízY€’õ:Ì/¤4ÿÆY(›a:bXãÛÏk¹qkwÓ³1ûÿ¦J”ôbšÆ.[ªÈ‚M/ó¥Óà'ó½58÷OLŸ›ßºto37Q¯âz5ˆàƒ¸|b%a—^™™ë„¦£¶ª„óËPıÏ_ûÚh	Uˆ J«[On¼ç¼ÌG"ïCa^¥0ãî>æCa&
+3~ú½(Lq_CğeŒR'±“—g‡ºxTÈ¬fê¨‡Ü/Ñª9UX‡YÓ‘Üñ7;»Jôl|C—öH\ˆjğ.NéeI©¾†DälŸ–¨bÛìœc\‹!Á^DœÕî‚{1(X¡>Ù¸»à•Â[µ¿à^
+ÖF€†İ¯Ä`÷ÙWbP°QÂÈı×x%†G!ãşÛi%[-¢4J™İ÷Wl†£|Û{ò+cÀé=HM²9¤ò[y)Säs¢7æÎ§”ßz‚ô.ÔòT—6N™iÈ9…y	!µ<sÓ[HãŞÔJ­RhïG&ü6zÜ¦M ÜBK=õpí£½ÑåŞr†.ydênú®€×ó˜sk¹÷–ô“p?KN¥6¹Ø4®mÄÕ¼şÖ¹×;f¼1õ‡Â¼JaÜXa&=°¹ŸLQ©Ã;Åï€ïZúoeÈ(0ŠÚYd#EzÃåĞ]E¶2H¤f/šT$."P` ¡ÔÎİ1­‰Q^îŸÍPò™VóvûÏÒü9_Å
+endstream
+endobj
+160 0 obj
+<<
+/Length 3073
+/Filter /FlateDecode
+>>
+stream
+xœí]_$§ŸO1_ ˜ÿ4Òél'–òÉ¹}‹òàí›‰"y"E'Å_?UtCĞ3{îİßzííi  ( êÇ,~ş$à× <çÂÇËá¿ñGPqTÿ/Ò—²:|›¾ãGo™Åï¾ûñô¿§¿ÿôıqüràôşËøŸÃw?}Ç}<?Où*5øş)+3{õ%ÿdëãÓùğNÛÁ
+§%·ÚÉP’9~°ŞÙG‰§$§D’Ç·£õVa&ø<Û¼wAfÃ„ggByğ,­±*>Èjì	ÿ‚ß
+2Sá¡kQºÀR„ıŠ3PøÄÒéÅy®àsÈé$ü†d
+“e`ªù	
+%‡¢şy|úëáÏO ¯¤Ã“b8R—ü\¨?tHùŠéWìÛAÍ²¤mPU½%‚9²¨W^
+}"6…i!t47Ã •‘¾²¾L¶AƒÌsµî
+’ËW]	U7!aˆİyíÍç‡Uü#ÛŒ©Vİ1“Ë¾«~·Ál4ÊÓZ=34çlH+éo‡8+
+Kéå`³&<üš×ÿ‡O/Wı§şvø+ñ[.árp‚Ö–-åå"@ aBl+o– â<ã\n+/q9FİT`.ârğŞmÕƒágájÅŒ‡†¥7(†]Îà—Ñ8ÕÑ#Œş_øˆ¾ax ïNVD/Í§.x8ÕuU2=ñª¶ŞÒ–|MßÙ¨Éíu†Úl¬şóü0Ø:îzŸó“ıcp†;)Èuvèktk[é‚?Ş~¯uÒ}ô¤”xê¤ot¿äøõ$¾4Ü_™¦Ò–åR#ÑM~iu§ğzswS¨À@¦]Ï„“álÇ¹JÿšñOÉÎ­¢xrÅ“/@Ê²Á)Á]Ğ@öˆê™Ó:^ä4Ërš2ì‹åëe«nN;,ëÚÎ‰¶Øjå¢Íc¿%ÙSY¦îä+ûê”?É¢ç\WWV·{ÇõzÇ-åßª©²®(¿“Svlg¸Ò\Võñª£Ù,ÓÔÎ—õæGÓ³‡ÖÇeİU–ÕMYô‰ì–ë;šVm›tfÙ'=›hË—²]êÂšúc«7*®Ê)ß	7wfÑH)ï˜•3ÏÁ†ø¡üV[&_÷‰0Ú@Kå@x.IšÓÚ_ÒÂDÆÊK¸:A63C®Ä	—2‚ñ–ëJëuT.¥˜IÂ#z3LgW‘@0E‹>×ŞµWGÃŒ²µNP*¸oå·V½âRé©­$¢*ô£í9h©p© )ùs¿`bÄ2'ßk ´Ôæ‰®uš¬ ŸM€£H*	O*£ÊşlhŞ1§tMó†³
+î	aX-üØJ÷šT(Àö„‹ˆ'Z«ƒİ¹ÔB²Á¬†&»©‹Ò¨àeèM²W3Y²"@ZÌ°óŒg‡Á±´ªè³©R“©7Ù \;Nç#±¯L‹˜qU,Úº0ı”ß¾îAaciN S§Ş0ÔW>Xfø–ôH]’¬‘úg]ìP‡¡S:KÃª9…Á_´êó±8\ôIíóöEs9àYS{Ø@-ÍÛ •úKË´³èîà?ˆk¿wGU`ƒñßÁl4ë}%ê§Äâ*Î”Ú†ÏE€À	¹-.‹¸´dT·¥À\4Ìómø\Äå`  ğÛîÜÌ@œcfØª«H¶çO ”íøŸ\:ò±îAø%è7ÏuÅ€!4óºŒ'"”}K£cl18r*MæR=…r)À˜<Zt Å\ˆGŸØâî@bÃt{ç¢:X{»¢ıp‘68{Ü†=il%˜VSàÀŒ<6È'<…*)ˆht¶¥<?E$rÓ„X3EOç…FXx›B—`ª_µ'ô`™ß-l•é?…m ù…öÍ·(9ê ‰ÁgTë³Œ,²,¼xË‰xfáİÆ”5º0–( ƒÄpúĞÔÛÌñjt¸*µÛ…@<£É™ˆ3“±^c–›!,5nÁñË¦¤HÇS¦ßêh¼d¤Ó¸c@0+ö^5@9œû™Z"Ì-Ùcùëe±³/tÚËêâDÄ`=oË—vWi„CNé»yÈ>»)4”fú…º»ï¯I§]‘>["¨äÖZ§hÿ¢-…] wÏĞÌr¥!›Ó8ìákf„Í…ÆÏO¸µß¦}ôæûÈòØÑù¤ğ¦ÈˆşvŠm«¹%÷ëL a‚}§29ÈŸ¨k-XSå¿¦A7qá®qí £\s¨ÂÚ­Ğõi`˜	p³{tä“zLjGU`ƒù¶èîÍŒ_‰c¦i1¢RB:æõ¶°[!D*ÃœÚVb&zf7O 9·Ã§…i<ã›ŒQd.DZÉÀC~MLS9É²sÌŒZv­³“Ü	ê0Ç>Ú©¹o©ìmĞÎ¯ÕáS¼Uå·$¿1Á£"'lœİD¸¡RÑ¦Ó”Îja@"FL¿!g·‡Up“mfŸ¹†Ã²¬¸F¬š‡¿Î…iC§5©Æ	‹ã¿ºtî ÍNºb¨û;Àd;&pctD“cW#½) 16eŒ‘äÔk7Ãä%d+ë˜ã®¦ÿ ¡Ùø¨ 8‚“í]m—Ü¶‰ÎAâ¯îOD¸[c#Q-œ§v¿ß\zÅ;lÆT}¤ì%ÕÄTÅÙ=¬
+”Ë`©Ÿ ¸ùifQ¶R$À¥õ¾u¦™~åL³¦‚ÑÌÑ¢f¦‚÷ÖI×­òš
+ºP\Oäû °hıÂ‚ÌcI›‰Y¶F"–Õ¦'¢@‡ö]„é+)Ï8Ä 6ñ-qçpšÛsv¤æu~é@ÄŒ€n5Í¤¡¡ÖĞÒ•V¹Yı2à¨óÖúÚZf añ©·L‘19¤ğ~Ş»¯Ï¶ +éw¤½ÃQGí¨êl3ï·/¼1~™¦ÅÄT¼1m0—"•dÎlLÌe Hğ`6Fi Rsf6¦¸2PäÀÔÆ8m!I§’ÉÍpÚ*gğœ¦÷>„±oÇ¡n‘#ÁG0«¨ÄÃgäh’ó(&BœGÍ;ÿ‚ø€‘,(ÉòÁ)š½ú?¥	·K†’3÷×éû/ïÊÃäæA!vB=şeF5`asÜ”=ÖüÕ<´=ŞI‘‚ òÇ ”¦˜´m:Œ%rJbÆ”èT)ğwÖ«Tò#–‚ÚÙ+Ç´Vš’Ÿ†JkfĞ2Ø·_ifı$á£Ö¨W8\|
+êÓS$À¨€4Ò´Mæ›VæpeIÉxÆ+A•œ*p­Úïir‹\ÇfåkğtWÂéP±v¢òh×çCÛj–q‚mGF¿Çêi¡ÅS¼a;@ißN³OÿëÈ·›ë˜J7Ç‰XÄºŸ*?UOóR§ÀÏ3t7M8Şı²^ù„ÃuÊFğˆnÿé¤IÄÉn)Å¾Ú!Ô/õ	Ù	«N—­ë0²nÂ+æ×KfĞ]ÀÓL¶ÖÉv?rğ.”x|Şmæı¤ö®Ÿ´‡ö0'¦3”à	‹m‚\Äåà Vßø¶ÍYˆŸŞm|ûe&âr T»-”•‹ HÜV£¹ˆËÁƒY¾*¾c¥mà;RTñ·Ÿ1¤8jŸ£*åIgÛîyÂE+ò¤OıcHÏ%µ‰ûÚ+¦‡lO±®æG&Æ#OÚÅØ/»Í4Ps´J×NúNªz/ô]¿Ãï [Q¢Û	5ğ~óJˆa†_²tNúlm<jîßj@	9¯¯vfÀ"RW|ªJèÜ’e|qíb7mó%YÄ¯ ô-HÅ‘åˆ™m»ûæõYáÚ§»xó·šy[½$nPÛò†·×µ8:q¼<™İBGŒ¿€`àáE	CÚ ½& ¥"z˜Ü4,ì¢÷±Úc‡Pb×{½Ào:p·%Îÿ‘>ÇGD½´Ílä´.AKŸƒ…çüÒÆq2ù.¡%±`¦ZŞ@ìAR¦ªşù¦ä?ÿÒƒë
+endstream
+endobj
+463 0 obj
+<<
+/Length 3799
+/Filter /FlateDecode
+>>
+stream
+xœí]K·¾ï¯˜?`šï è`'1C Çº9È³3A€l€@@ü÷SE»ÉîfÍ¬¬^÷Ä²,ÍÖğQÅ*>Š‹\u’ğçÿD«DLR*w:¿<ı‡ş¨œAŒÄÿ)¡~©$şŸ¿¬_Á_/4~÷í.ÿıçùò×¾;?=I¡¢4I+ç£×Á:È*¬RÁÛ ]ŒÚ8à+Ÿúl§Oç?}ûÃ'uúÇ'`óãÄjCæï>4b4I@˜?´ñôáúô·wÖ½‡ôwş¬wA¿?}-{dş²¿ó)gÆ;ıl~¯°€òP@KgJr
+kğÏ”>ş~úğç§?~ 1« Ziác<e5ı˜[ğcşì´h­	ÿ[)Jo(3§AÍXÒ4\\Rôşd¼HRk¤–l—7v”ãJzÓå½.yÎÔ‚ÖÚ$ÆeV†eÏÄ³yİkjÒ°ûè ¼¶j•ŠÖ¤Tß©:˜W¨Ou%å˜òçêÛsTL+Óİæ‚:U˜H}~E/8ÛÇ÷ÊEC4Óä8n$gæ¾–>gXuˆ{ºî LÇ‚î«Ã(³y…zØ¼¿b€ûn ö]&0ÃËÛ/ß)½çŒ²nÌÓN%¡‚–¸ÍSu;ë$ìÛMÅy9ÊÚ]i|Cå¹ÄŠèœÆõ
+U:§z®¤[ÖÓ”C›:¢÷!’Mg2Û´É|]VÄµ+6MQìÌ®Kmò;ªç)»´ÔQ—
+¬tfÌ#/í#g®U‘c8–gÆ^–iòu¬€<ÎÇÒôµÆRKşw+R-åaJöy-#¼_E»®¬|§ä,ä¿P7ÄÅbhxs7¦ß¸z”]Öªf]i¨ÆËRûÓl·uˆëoíö†b/X“w¯%n ‚ôjŞ €¿ŸüÅC¼ñWøÉĞBgK	)o,®ğdÎ[,ŸğÍ»sŞmàú…UBñ¢Aô— ‡ã¶%yGb­¶Yå/ğ©à§,1Ê]Aš†Šm©~d…4zË8Æ”­Hÿ­7ogj.(Ş‡ºlUcÑb¨Š¦œŠ¬‘?á_Ÿç’M*Ié¾è*ë2´¶ØÊ7.ëºr)•;ÙØ?ıäZ:DE¬4Î¢aİi–sä—Ød…Ó›q²8$ı·!•1ôF&)}¼Ú5UÛ®%)AçşçÁly(”Øì¬–„zİl¾J0ø“-Í?¢@Zp?o
+o »>¸è&nŠ`]8¼ÖŸ_©õÆ .y¼‹)3”õ¿ûå©öpğçıéåIKÔ°/ä¿Ú|ÿÓç+ÿ§ïÿòô‰ñKÏY‘ÂÎgÀP*½Ş‰ã&À¦LQÂæáàJhur^ëgrO`‰_ !«Š a:ÓÒR>LY‡êšyN±N8cO<B	ü„Gúß¢,à+,—á÷§$’²*ªârÎzÅÊK4,:°8it‹†%jh”ZÁo,j×,³tBÎèUk×èÛÁ_Eá¯BseáÚÈáÀ.Áj wŠÌorI˜üví4Bék˜|–ìœjFìêëD[×öQğÀq˜ı4-ŞŠB{hm¥2CNÃÔ•ûN¶¹Q%Ú)>ËÀf<l\×ät¢Š—ËVèís˜JÓ¼q¡Ã3{Á|ÓĞ›fsß›Õ*«ód¥@{Pèì±/fÒÙ<9ÜR;Ì¹ƒnê„†%å¸;YBª¥
+yÄÅJ-EØjMseÆ9C—“ğî¦ZğÍ	"®$¡²5ï™¡®åP¡2	KÃ2Y5Ë4E	EßnôJ„¦ +«W/İBéW¶%½tjÉedØ¾¸<İmÃP>p:R}NË´bm«±¤\Çî[qé¨Àhj•“±œcô¿êL=«Ó”ìµãÆ’sµ,¬áÆ-^l~\q:~Í²~$p©ÀÅü{ğ…	ñœ(ÓQ±£.uí¨3“:*1üÔ²N„m­÷ÎÌ(.‘‹¼]›ÕT{aè•ñÌ¤uµô*% ¸’šmGú§¢šÑãó8maÓÄ48°Zåì¸ª§Wé0g¡«ô
+#_–&ÿ¼îÑ§-ÀäôšQòùµxe:¦ëäÍÑ¨ƒê/Ôë>Ş;[¬A¥¶À^'¢ÖÁÆ£Co?sÍ@äKÉÃ£¶&r@Ô¿îù³-±ÓBúZ8´c¤°„Ú”DP&Ú½ ÃÊ¸góòäd6ùdöEc—l€±RÂÄˆ®ÒB¤ñ ©uÅ;	
+u@
+Ä&ÆE¥@×f7Fì\ŞŒçÔÑ-MùL¸U"§x„Yôq7æ—ÏñtÍÅ7ÁÕr€ß+:7ù0æ<9%…3 ‰)ŞÓ‰z°œL§C`‚õ˜ ¹ªßz@<5¡5›ƒ\ù©¨ej².Q `Ã¼ğ™˜Á˜3ùĞtfÑTí¤­šŠj«èğu†¦Îb9:4˜b4l=ù¾20…Í™û â&ñgÕÖP
+ø4"A-í_²;‘/Hû83:»LêrhñUmò7dÍ6ck5å0(ï¯Æ¹,=\øÚ@—ØY±;úJ3u²çù)<!1ôğˆ ª5ïß µÓFCpôqGg*Ex#&ò¼{C€+_ÍN¦L+wÈ'çğ¤núÏÆìÈ—£ïÆ²áq×m¹¯x¶¦rœÁK=8˜û¬wˆ°šªÿ<]¸ÎİÊ‰‹K	o:ç…£,+uIS(Y‰O+qFµ–ø²rYâšò*ğú•eÛßw^ıÙ¯‘;GÜ9èÜa”	Û N ÛƒKÿÿíUgEÚé/…Ş×hY Ã(¤´;slx Ë€ªÜCéx KŒk;³lx Ë¤w_–-dé„¶{µr×0àpÃcDåÖoˆ“W3Ì9óñ=ø}yG|®’nÂ¹'o)A…Ûß{gÛ×ƒ7æ™`Ò½ugÁ¶ïÛ•¾ßGR~« S¼ÊÙéìœ±Šz7A—ë —é‚N)]öÄ#…/÷YK…¯ªÚ;(hUG˜IÙyù¼ÌÃ	›‚5­Ğ
+R¹Š°	)HBš0µî†l¹râÔ‚B} —–ó¦•˜Ó¨×b.í^¹$µ°¡éşC•pß|¥½°6(e©-U6AÃÔmp`”½ÀzLuÙ5ˆµSÜ¨¶C Ë£cP i† ß¾ò]LVë¸1%XÈ”2:¼©?×ËIpÛ°å4uğİ"Cã¨rÛ]	O8ÊZX‘ß¿=V»§‚EKiôt8“\ü'[®ÜI›šŸÿIhì²y(æ”É1­1ôƒ¦¶%Óè¿âÄŠ˜Us9ÀÙ
+L™º<®\[4ïúPmËm­—Ğ‡EÎM”ùT
+Cò×÷÷Jj¨vuC¯@›ˆFF­—áó’+(°êÂY1ÓaMq&¯ˆ®(–KqÍ¡˜c/dÚäEØÔvİXößBö7ôÇZ·\^Ífxh|güÿÄw$úC÷™¯˜à›c‚±	x¢Y±;IáÌ¾qN3‡—'ç…Lûâd-`˜DÚ+ª‰øÍ^<˜ î‹¯¶,^ÀÙ{òk8¼<E#Ìnqq›ˆ”ÓNh	ƒ`µœŒlZC€g¬5´c
+Qr Ù&äb+F,Z¡T3ò·5é×O'¾upØøy~úb™lw_8Ø£¢²ş.ÅowTWO±"³CLèiá_àC§k,ßöto“Ê­Ãø™•!¢9?7ÍEÙİŞ÷Š„’êHm§öR~:ÔÎfÄíÕ_™‡KŠ\¶Y*»‹òmó€Íà©—«ÖyU´tac‹ë@êù©Z7æ[«ŞÖµ(MLÛÜ¾n0á¶C	3hÛEu1@ğîÍC;‡2b—«@²Ï¡‹—m¶§¶â  VnR%B‰n(×Qª¥èRŸÖ°^Ùér\%qÙhJ^º’²£:Â™)ÃòPcŞ²%¯wKğ*YapW’ı¼Oô3C]»j3D8'2Z¦Ë›#p[p¹Ó´Á0JÀa8ê1iû–Äq¥7eU½zü€ŸõFy^¡+9l•gÒú‘¦˜'†{?–ö!)ÇíXäì[Ü×ùÌ¤uµ|ÖÓG@aƒ«*X‚ª#á|ë‘\ËÚ›O;õš×K©µ¸â€:xädk;âjyxLã¡Á¤ô;“$úC÷™ßh½×.á×%ÒÄXãÊ¬jß@¶™C‰ô~ç`½–²Äãö9Î,JØ¥u{z6<€e´BîÌ±aƒÀ7ÖßŒônwx²„Òåóh¹4–óá)Zqãíé±ôøú¯¾­î¤ĞÉŸxÈÒÇ˜OIŒ¿1rÙ?È3Xæf‡2d,|,8ÉAæÈ6Ä,çx8ŠnD€ÄµhËÖ;Âøåy3D‹½i›Ì«å‡ÿaNŒh€Çë¢• 1AIôŠÚLºüÚ½”8=;7,vß%¨üüÒ˜õÖ­µûXªyoÂr à®ùåÆ•~^àµ·Ú¯*lW.29¯Xó-öIöA+âÒQèæ}I7“óë~}–™ò–¢€ÕÍ1ÌU<LİDS™üÓôÂä™.~s9^3÷kZâÃ¬ìSZ9 ÖI‘izû—ŞíQÆğ3ô‹R´Rº^GIz©d¥…6z‰ˆÔ¦%ºÚì°Ìµ%.¬|Ãêo”£·¬HzKl‹}Û²E¾û5×ëgÙ¼™-33Ôı<ûuåmYªn`@×ÏÃ”ËÈÎõ·v¤Mw0,u08Û5´rŸÒ™¤øG•¬¾$C9ÜH=L6}·âê/’¹SÇúƒÆ¾k[^'è¬òËGJìÀè9p†C9Gl+ú]?†®NÕÛèMìîìHç×€éw˜zr¹>Í+ì(HÃ$#Oúq½¯·Ó¿v˜¯‘¨ç9qº^iig±åÑ¯°F†}Ù²Œ"íŒ>w<€¥ÒbçßğÒ² †:
+«wncËXâKëûbÁõÏÿ ‰†zk
+endstream
+endobj
+223 0 obj
+<<
+/Length 3222
+/Filter /FlateDecode
+>>
+stream
+xœí]K#·¾Ï¯Ğ0Í7ÙÀ`v9pvnA»)	,ÿıÔƒì&[ì–faJ­¬vít7É"‹dÕWrÔNÂßü­qR¹İşıé?é¯¢jg$ş—>ä—
+ªú 4¿Ïoå."â»ÿpøï?÷‡¿şòÓnÿõIÒ÷¯û?ıøËWµûÇW¨óëX¯Ñ‡Ÿ^‹6‹O¯ĞòŸ€ºİ½Ÿşö¬?jTp~ğæe§åîÙñû0hé•·ŞÂÏƒwü%„hí^ùÒ³w^\ĞŞ¨õ^K«¨ “ôÃå7hö€Íéè¨iõ[€·A¿ì~°HÅuãşêÃ×#vÂà´$ÿ¾{ıóÓ_#‹£Æêl°N¨(Í •z:Xu„U*x¤‹Q§xå‡ºXn»/íÎCñ­wİ´ùDˆvã]wowËõ{^0îûY0„³>¼ì<É[ 6‰ÄC0 5JBrÑkÙìmŒÂÛÈİıµÒ0¥Öùí)KNe…ß½ÃcÚX~üW9ĞŸ?}û}úù/OŸR7~«i ÉÁ©b_’%$9ˆAu¦8‘x²VÔ])V4€¤RÂEß—dII:aC¯™¬W1L¨¿ŞVÏÁ€Ip1 '†)	Â`10{¯¸R°‚ªÁ˜Ï/;G»šƒİm¹şqlÚ<Àûf©ö„² /Hğ‚1øy¼¨2ğß(î;Š”<&€ƒ&ãºóMeD×”CNÂfW¶%ˆ@œ¼SÊ{½yM•ñ+#ÌK˜Ø§RvßÆUÛŠïvëı˜mF)ÙeiŸ—x’öJ#óúB…Š’ŒL&YĞ ’Fº©4Vk•[ÀCşœ¸TË1pûUb‘W9PP <Y‹@»Hç‚œ4µ	’õ3 %Ó¦ƒ®ĞM>a‰OúšĞÀ¥±yŞT£0^ø×ÓÈY“4µËzõÍÀœ²†_âwEÊGeİdÈSb}¥•¹e}°v²8v¹Ø©¥c.ˆ¦BòôĞÁOîœZPÚ`\ˆh«	(¬‡kêè†ÿ)¤uÄ)ì¤„¤\RÚ€Ú´#Fï’RÄaà²°SøÌ*äç¹)´µpB ç8æ+N'ˆ€¡Á´V&Ãîí'ú¬ÙsFÓ£š.¶0èÈ7­:”Í§o­g[ïJŞD4P÷‰« æìÀÜ¯p&%îN”¶ í#&àTšñv'Îƒ¤Rl·\'I¥İé4KŸ£ilÁ…IpBµMkcXòÌns½)X“–5” æšÂI[3úoA½@•óRæe‡|tatë3ÊÂ4±“…©ÜkòAOö—^Ù €[Óâ¤h˜×õ´k=wŠkå|c¾ü ø‚¡!¸ÍCŞ;64¾#Ïå†º~Çl„öVuÂem½ÙŞß«qZ»±³TÌV›àcû:?+@~JÓ—bA	J¢3Å‚Úß0{ª·É_Ğ@û;;²¤$aB©kÚüjPÂğÇŞ™Ño'[¦4ûÛSBÿÉYl)¾Ah_QÈB4ù§u\âßUGcFs£a$È‘‹@y¸ƒ6("vD»û©6†ÄÇ8w,LV}mPug1‹¥€D#^jıhaM5·s¬Z;hiá¸(\l»;GºµÂ¼nåö€qqã÷ÁàÅ§¦Trvp.YZ$cìÙróT2-İ€‘ôaá’¦¥Í^-²ôª¬ Ñ£ĞI@KôèuŞ­!oOÆÕöWE°åba’ßrQ’mŒz²{İhd“yDÖ0â•ñ›œvÜ-]'{foKfF-6;€ÿø?òe0Š—xBl:zà\_XÑx2 u_£$½P®×§¿µv3 -WÅyşêíß·d?Ì´_vK“4Ş“[ß1Hm6û2e7Jd’ëÓ…RÚşé#ç,d,~+7áD•Æ ã³ñ=˜oƒ6Z†Åã\Û¯”$V­–sndë$ø R%ÖÕÂô˜ÎjÓkg¹¡ï‚	I½»u:ŒÓW{2‡?¿s·¡ùÕÉ™:X)gÎÙj
+¬BAÛŒ\¨µÌ°´°Í$M¼¦ÈvHß2fQHà›#lkyÏ_–[ÑE1X¿uXq×x®Íùëˆçr°4´È3Úñ ïLç¤à’tlgHWÒÀlk@xC¿„Ù6¦ËN²-¹K³Q¡@ƒ·**ÖCÅãYĞçëªÅã„–›_R°+5"Ëÿl©¯”,¼|©Óä)A„¸_­ÈárSU:;ÁÉ#X-™@)è?ÌÙ1$Ğ¶R¢˜á1Š;¢ÛBÌÖQVÈá¦Ğ7c€ã”ˆò¥ò\˜iÊS!xáüÙ#ì¢…’}Şpœ¦,‘Uà’ÏmŸ¬„#9…Énó'Ô˜ûÂ¾ßˆù>®4}½,¸­ˆw}°°`±\â\È£LbÚ)<#ÓK3\„{·Ã[ KI›°t-°$ÇP%ó¼kp´ aõÛm¼¢ìP÷6„[VÏ€WÂe”Nªpz<UêªÅcU›_Ä*Ë5N½RkÅÉ=×ähTÎ•İ"+µ2Œ¸ İSc}ÒÅ«-0j:°/*«è‹}7E ‰ñäd9GÙb*ç¨ü›ª}Afİæ…ö»§–®­*k(—WxÖ_ He¯ã<‰bA	Æ	Jv£K¸
+âJ„+héF–„u7w$Ì’l²V®N”íêd IĞ@	<+é2*Õ›Â{hûsºÉ$¹1lJ_/ï<a#Òx(P`S¸`àHĞ‚
+`ûm¨ <ş‘¨LËâDEÎe¢{d¢ošÄÇÓSĞ3¶àQjÛ$Dt²YGVÀk$[¿-éÖn^ß±âSyô3ñjº//òÑÁbÂõvp4ğ¢'¤î|HIIF1¨¾Úo®õ€¤Ç£¨şDùm<{w Ü}>ú–•e™Ê{¢©²H®Îñæ:K–†¡LòR5éŒ£t“pÊÈë§ñºœ;ÚU¦Ğ0)LòÄM))óÃG{Sİ³‡†OaNÎB$NÀFr$©ÿŸGó»:+:OIeîÀÓUJuä¦˜²§]yŠ±	Ä²›¦ô¼œ2ÓÙ„NÀ£c>Æ‡Üø‹)=Ò5/FÙDFDz(’x–Ã	“i>8Úe
+x7f¹§SÖ6İ+8Ëƒ¦Ìâºp[’X÷›VşÇÈítı‘Bó{Áıta‚fÕ?”çxĞÍ0S:UxÙ-¨…wp­ßX t­JÛíŒŞK˜÷c…õ}3¹+H2NGG»‘ŒåñT ’İ§V40Õ(t?ºYÑ@KL‰Ğ-¡jvøšwl€v4BB¥K©;ãSËßĞ2*VZ™•4@E&í¢‰‘ñrñètU¶nu?§¨âøˆ³åf×:ÛÈh[.R7kıu;±z:^Ì*»Êµ\“\Ä“©èl*/‰\îûŒ?'Ãzß×j6ú>}Ô—3(Øy×‹f?JåRvÙ•‰w«;èty]XÓÖeÕ™vªoÕNü¦4ú-\rsAöÛzZ‡t?W>YäÒ“ÍYÙŒœç¨¸K^{j¨¯åVré&%J%0`åRŠúíuïª]ÈQ¬¢PGº¨«Ø‡ ŒŞ<b¿kSé{2¯;šJ‰ŒD;™9i…wÅ(Ñû•‚Ä;İ£bç¬½’Fº«µï9ƒ™+3%í10¿§˜ˆf·%ßVZ»õY;dß~u'İR(Eà'ç"#>š%v^ù¶SàùÜ¤P(~qêõ.ôüÈNN’Äó°|Ûbö`Ätœ®ã©í€ˆ‘b°ñãŞöŒ‡yã)
+¯n+¥TF››Ò[,ÿŠÎƒ…¯ŠN’«û(FŞG:ëQÑ¸ ²t¥Åwïî@Kß7Àxøb¯0XÛæ%†(¿³ë¯Ş(i Éè„év;D"YÒ@’ƒĞöª×¤xÀ7Ö‚|]kJdM”’Ò}²¾N“ Ï]N]*<(n„ßèw¥¡­Ëéh‡Ôrª¢ù—gü>v§u¾ˆO`’}ËJwà¬ˆç„!l%½À^Èåâ¢©)sH>ö\ğım&'“.İ¸dŸÉÇıÇKÿJ­«õKi‘ç[—l hÜ×­h IRÆ÷œU4¤Ş]ÕvÓàxjËtûÿÆz†M
+endstream
+endobj
+xref
+0 571
+0000000000 65535 f 
+0000071786 00000 n 
+0000071922 00000 n 
+0000071699 00000 n 
+0000071678 00000 n 
+0000071969 00000 n 
+0000072012 00000 n 
+0000000189 00000 n 
+0000000059 00000 n 
+0000000015 00000 n 
+0000071580 00000 n 
+0000090594 00000 n 
+0000006931 00000 n 
+0000006613 00000 n 
+0000000307 00000 n 
+0000000392 00000 n 
+0000000518 00000 n 
+0000000648 00000 n 
+0000000773 00000 n 
+0000000903 00000 n 
+0000001030 00000 n 
+0000001160 00000 n 
+0000001287 00000 n 
+0000001392 00000 n 
+0000001518 00000 n 
+0000001623 00000 n 
+0000001749 00000 n 
+0000001854 00000 n 
+0000001981 00000 n 
+0000002119 00000 n 
+0000002246 00000 n 
+0000002384 00000 n 
+0000002511 00000 n 
+0000002649 00000 n 
+0000002776 00000 n 
+0000002881 00000 n 
+0000003013 00000 n 
+0000003118 00000 n 
+0000003250 00000 n 
+0000003355 00000 n 
+0000003487 00000 n 
+0000003639 00000 n 
+0000003771 00000 n 
+0000003923 00000 n 
+0000004055 00000 n 
+0000004207 00000 n 
+0000004339 00000 n 
+0000004517 00000 n 
+0000004649 00000 n 
+0000004827 00000 n 
+0000004959 00000 n 
+0000005137 00000 n 
+0000005269 00000 n 
+0000005374 00000 n 
+0000005498 00000 n 
+0000005603 00000 n 
+0000005728 00000 n 
+0000005833 00000 n 
+0000005958 00000 n 
+0000006052 00000 n 
+0000006176 00000 n 
+0000006270 00000 n 
+0000006394 00000 n 
+0000006488 00000 n 
+0000087350 00000 n 
+0000014943 00000 n 
+0000014576 00000 n 
+0000007050 00000 n 
+0000007155 00000 n 
+0000007282 00000 n 
+0000007387 00000 n 
+0000007514 00000 n 
+0000007619 00000 n 
+0000007746 00000 n 
+0000007854 00000 n 
+0000007981 00000 n 
+0000008089 00000 n 
+0000008215 00000 n 
+0000008323 00000 n 
+0000008449 00000 n 
+0000008543 00000 n 
+0000008670 00000 n 
+0000008764 00000 n 
+0000008891 00000 n 
+0000008985 00000 n 
+0000009112 00000 n 
+0000009250 00000 n 
+0000009377 00000 n 
+0000009515 00000 n 
+0000009641 00000 n 
+0000009779 00000 n 
+0000009905 00000 n 
+0000010036 00000 n 
+0000010163 00000 n 
+0000010294 00000 n 
+0000010421 00000 n 
+0000010552 00000 n 
+0000010678 00000 n 
+0000010808 00000 n 
+0000010935 00000 n 
+0000011065 00000 n 
+0000011193 00000 n 
+0000011324 00000 n 
+0000011453 00000 n 
+0000011559 00000 n 
+0000011694 00000 n 
+0000011800 00000 n 
+0000011935 00000 n 
+0000012041 00000 n 
+0000012176 00000 n 
+0000012329 00000 n 
+0000012464 00000 n 
+0000012617 00000 n 
+0000012752 00000 n 
+0000012905 00000 n 
+0000013040 00000 n 
+0000013146 00000 n 
+0000013272 00000 n 
+0000013378 00000 n 
+0000013505 00000 n 
+0000013611 00000 n 
+0000013738 00000 n 
+0000013891 00000 n 
+0000014017 00000 n 
+0000014170 00000 n 
+0000014296 00000 n 
+0000014449 00000 n 
+0000073276 00000 n 
+0000018907 00000 n 
+0000018641 00000 n 
+0000015062 00000 n 
+0000015156 00000 n 
+0000015285 00000 n 
+0000015379 00000 n 
+0000015508 00000 n 
+0000015602 00000 n 
+0000015730 00000 n 
+0000015836 00000 n 
+0000015964 00000 n 
+0000016070 00000 n 
+0000016199 00000 n 
+0000016305 00000 n 
+0000016434 00000 n 
+0000016565 00000 n 
+0000016700 00000 n 
+0000016831 00000 n 
+0000016966 00000 n 
+0000017097 00000 n 
+0000017232 00000 n 
+0000017338 00000 n 
+0000017467 00000 n 
+0000017573 00000 n 
+0000017702 00000 n 
+0000017808 00000 n 
+0000017937 00000 n 
+0000018043 00000 n 
+0000018172 00000 n 
+0000018278 00000 n 
+0000018407 00000 n 
+0000018513 00000 n 
+0000093719 00000 n 
+0000026628 00000 n 
+0000026242 00000 n 
+0000019027 00000 n 
+0000019123 00000 n 
+0000019249 00000 n 
+0000019345 00000 n 
+0000019472 00000 n 
+0000019568 00000 n 
+0000019696 00000 n 
+0000019875 00000 n 
+0000020003 00000 n 
+0000020182 00000 n 
+0000020311 00000 n 
+0000020490 00000 n 
+0000020619 00000 n 
+0000020714 00000 n 
+0000020841 00000 n 
+0000020936 00000 n 
+0000021063 00000 n 
+0000021158 00000 n 
+0000021285 00000 n 
+0000021379 00000 n 
+0000021506 00000 n 
+0000021600 00000 n 
+0000021726 00000 n 
+0000021820 00000 n 
+0000021946 00000 n 
+0000022040 00000 n 
+0000022169 00000 n 
+0000022263 00000 n 
+0000022391 00000 n 
+0000022485 00000 n 
+0000022613 00000 n 
+0000022709 00000 n 
+0000022838 00000 n 
+0000022934 00000 n 
+0000023063 00000 n 
+0000023159 00000 n 
+0000023288 00000 n 
+0000023384 00000 n 
+0000023513 00000 n 
+0000023609 00000 n 
+0000023738 00000 n 
+0000023834 00000 n 
+0000023963 00000 n 
+0000024142 00000 n 
+0000024271 00000 n 
+0000024450 00000 n 
+0000024579 00000 n 
+0000024758 00000 n 
+0000024887 00000 n 
+0000024988 00000 n 
+0000025114 00000 n 
+0000025215 00000 n 
+0000025342 00000 n 
+0000025443 00000 n 
+0000025571 00000 n 
+0000025666 00000 n 
+0000025795 00000 n 
+0000025890 00000 n 
+0000026019 00000 n 
+0000026114 00000 n 
+0000100741 00000 n 
+0000039228 00000 n 
+0000038722 00000 n 
+0000026748 00000 n 
+0000026887 00000 n 
+0000027016 00000 n 
+0000027155 00000 n 
+0000027284 00000 n 
+0000027423 00000 n 
+0000027551 00000 n 
+0000027730 00000 n 
+0000027858 00000 n 
+0000028037 00000 n 
+0000028166 00000 n 
+0000028345 00000 n 
+0000028474 00000 n 
+0000028613 00000 n 
+0000028742 00000 n 
+0000028881 00000 n 
+0000029010 00000 n 
+0000029149 00000 n 
+0000029277 00000 n 
+0000029456 00000 n 
+0000029585 00000 n 
+0000029764 00000 n 
+0000029892 00000 n 
+0000030071 00000 n 
+0000030199 00000 n 
+0000030329 00000 n 
+0000030458 00000 n 
+0000030588 00000 n 
+0000030717 00000 n 
+0000030847 00000 n 
+0000030976 00000 n 
+0000031106 00000 n 
+0000031233 00000 n 
+0000031363 00000 n 
+0000031491 00000 n 
+0000031621 00000 n 
+0000031749 00000 n 
+0000031882 00000 n 
+0000032011 00000 n 
+0000032144 00000 n 
+0000032273 00000 n 
+0000032406 00000 n 
+0000032535 00000 n 
+0000032661 00000 n 
+0000032790 00000 n 
+0000032916 00000 n 
+0000033039 00000 n 
+0000033165 00000 n 
+0000033291 00000 n 
+0000033430 00000 n 
+0000033558 00000 n 
+0000033697 00000 n 
+0000033825 00000 n 
+0000033964 00000 n 
+0000034093 00000 n 
+0000034218 00000 n 
+0000034347 00000 n 
+0000034472 00000 n 
+0000034601 00000 n 
+0000034726 00000 n 
+0000034855 00000 n 
+0000034981 00000 n 
+0000035110 00000 n 
+0000035236 00000 n 
+0000035365 00000 n 
+0000035491 00000 n 
+0000035620 00000 n 
+0000035753 00000 n 
+0000035882 00000 n 
+0000036015 00000 n 
+0000036144 00000 n 
+0000036277 00000 n 
+0000036406 00000 n 
+0000036532 00000 n 
+0000036660 00000 n 
+0000036786 00000 n 
+0000036914 00000 n 
+0000037040 00000 n 
+0000037168 00000 n 
+0000037301 00000 n 
+0000037429 00000 n 
+0000037562 00000 n 
+0000037690 00000 n 
+0000037823 00000 n 
+0000037951 00000 n 
+0000038081 00000 n 
+0000038208 00000 n 
+0000038338 00000 n 
+0000038465 00000 n 
+0000038595 00000 n 
+0000084090 00000 n 
+0000046390 00000 n 
+0000046028 00000 n 
+0000039348 00000 n 
+0000039478 00000 n 
+0000039607 00000 n 
+0000039737 00000 n 
+0000039866 00000 n 
+0000039996 00000 n 
+0000040125 00000 n 
+0000040255 00000 n 
+0000040382 00000 n 
+0000040512 00000 n 
+0000040639 00000 n 
+0000040769 00000 n 
+0000040897 00000 n 
+0000040998 00000 n 
+0000041126 00000 n 
+0000041227 00000 n 
+0000041355 00000 n 
+0000041456 00000 n 
+0000041584 00000 n 
+0000041679 00000 n 
+0000041808 00000 n 
+0000041903 00000 n 
+0000042032 00000 n 
+0000042127 00000 n 
+0000042255 00000 n 
+0000042350 00000 n 
+0000042479 00000 n 
+0000042574 00000 n 
+0000042702 00000 n 
+0000042797 00000 n 
+0000042925 00000 n 
+0000043057 00000 n 
+0000043186 00000 n 
+0000043318 00000 n 
+0000043445 00000 n 
+0000043577 00000 n 
+0000043704 00000 n 
+0000043851 00000 n 
+0000043986 00000 n 
+0000044133 00000 n 
+0000044268 00000 n 
+0000044415 00000 n 
+0000044550 00000 n 
+0000044645 00000 n 
+0000044770 00000 n 
+0000044865 00000 n 
+0000044990 00000 n 
+0000045085 00000 n 
+0000045209 00000 n 
+0000045356 00000 n 
+0000045480 00000 n 
+0000045627 00000 n 
+0000045752 00000 n 
+0000045899 00000 n 
+0000076145 00000 n 
+0000051922 00000 n 
+0000051608 00000 n 
+0000046510 00000 n 
+0000046657 00000 n 
+0000046786 00000 n 
+0000046933 00000 n 
+0000047062 00000 n 
+0000047209 00000 n 
+0000047338 00000 n 
+0000047439 00000 n 
+0000047568 00000 n 
+0000047669 00000 n 
+0000047798 00000 n 
+0000047899 00000 n 
+0000048028 00000 n 
+0000048160 00000 n 
+0000048289 00000 n 
+0000048421 00000 n 
+0000048550 00000 n 
+0000048682 00000 n 
+0000048811 00000 n 
+0000048917 00000 n 
+0000049050 00000 n 
+0000049156 00000 n 
+0000049289 00000 n 
+0000049395 00000 n 
+0000049516 00000 n 
+0000049625 00000 n 
+0000049750 00000 n 
+0000049859 00000 n 
+0000049984 00000 n 
+0000050093 00000 n 
+0000050217 00000 n 
+0000050323 00000 n 
+0000050447 00000 n 
+0000050553 00000 n 
+0000050678 00000 n 
+0000050784 00000 n 
+0000050909 00000 n 
+0000051015 00000 n 
+0000051142 00000 n 
+0000051248 00000 n 
+0000051375 00000 n 
+0000051481 00000 n 
+0000080970 00000 n 
+0000057307 00000 n 
+0000056993 00000 n 
+0000052042 00000 n 
+0000052148 00000 n 
+0000052283 00000 n 
+0000052389 00000 n 
+0000052524 00000 n 
+0000052630 00000 n 
+0000052765 00000 n 
+0000052871 00000 n 
+0000052999 00000 n 
+0000053105 00000 n 
+0000053234 00000 n 
+0000053340 00000 n 
+0000053469 00000 n 
+0000053575 00000 n 
+0000053703 00000 n 
+0000053809 00000 n 
+0000053937 00000 n 
+0000054043 00000 n 
+0000054172 00000 n 
+0000054278 00000 n 
+0000054407 00000 n 
+0000054513 00000 n 
+0000054642 00000 n 
+0000054748 00000 n 
+0000054877 00000 n 
+0000054983 00000 n 
+0000055112 00000 n 
+0000055218 00000 n 
+0000055347 00000 n 
+0000055453 00000 n 
+0000055582 00000 n 
+0000055688 00000 n 
+0000055815 00000 n 
+0000055921 00000 n 
+0000056047 00000 n 
+0000056153 00000 n 
+0000056279 00000 n 
+0000056388 00000 n 
+0000056517 00000 n 
+0000056626 00000 n 
+0000056755 00000 n 
+0000056864 00000 n 
+0000096867 00000 n 
+0000065913 00000 n 
+0000065527 00000 n 
+0000057427 00000 n 
+0000057559 00000 n 
+0000057688 00000 n 
+0000057820 00000 n 
+0000057948 00000 n 
+0000058080 00000 n 
+0000058208 00000 n 
+0000058340 00000 n 
+0000058475 00000 n 
+0000058607 00000 n 
+0000058742 00000 n 
+0000058874 00000 n 
+0000059009 00000 n 
+0000059141 00000 n 
+0000059269 00000 n 
+0000059401 00000 n 
+0000059529 00000 n 
+0000059661 00000 n 
+0000059790 00000 n 
+0000059940 00000 n 
+0000060069 00000 n 
+0000060219 00000 n 
+0000060348 00000 n 
+0000060498 00000 n 
+0000060627 00000 n 
+0000060794 00000 n 
+0000060920 00000 n 
+0000061087 00000 n 
+0000061213 00000 n 
+0000061380 00000 n 
+0000061506 00000 n 
+0000061656 00000 n 
+0000061783 00000 n 
+0000061933 00000 n 
+0000062061 00000 n 
+0000062211 00000 n 
+0000062339 00000 n 
+0000062445 00000 n 
+0000062572 00000 n 
+0000062678 00000 n 
+0000062805 00000 n 
+0000062911 00000 n 
+0000063039 00000 n 
+0000063206 00000 n 
+0000063334 00000 n 
+0000063501 00000 n 
+0000063629 00000 n 
+0000063796 00000 n 
+0000063924 00000 n 
+0000064056 00000 n 
+0000064181 00000 n 
+0000064313 00000 n 
+0000064440 00000 n 
+0000064572 00000 n 
+0000064699 00000 n 
+0000064849 00000 n 
+0000064975 00000 n 
+0000065125 00000 n 
+0000065251 00000 n 
+0000065401 00000 n 
+0000079329 00000 n 
+0000071285 00000 n 
+0000070987 00000 n 
+0000066033 00000 n 
+0000066164 00000 n 
+0000066297 00000 n 
+0000066403 00000 n 
+0000066537 00000 n 
+0000066676 00000 n 
+0000066808 00000 n 
+0000066961 00000 n 
+0000067095 00000 n 
+0000067274 00000 n 
+0000067407 00000 n 
+0000067502 00000 n 
+0000067636 00000 n 
+0000067745 00000 n 
+0000067879 00000 n 
+0000068011 00000 n 
+0000068145 00000 n 
+0000068239 00000 n 
+0000068373 00000 n 
+0000068469 00000 n 
+0000068603 00000 n 
+0000068704 00000 n 
+0000068838 00000 n 
+0000068968 00000 n 
+0000069102 00000 n 
+0000069235 00000 n 
+0000069369 00000 n 
+0000069495 00000 n 
+0000069627 00000 n 
+0000069752 00000 n 
+0000069886 00000 n 
+0000070033 00000 n 
+0000070167 00000 n 
+0000070317 00000 n 
+0000070451 00000 n 
+0000070618 00000 n 
+0000070751 00000 n 
+0000070857 00000 n 
+0000071500 00000 n 
+0000071405 00000 n 
+0000071434 00000 n 
+0000071463 00000 n 
+trailer
+<<
+/Size 571
+/Root 3 0 R
+/Info 567 0 R
+/ID [<e95a791dfc4552c0f569a086d8f8270f> <e95a791dfc4552c0f569a086d8f8270f>]
+>>
+startxref
+104038
+%%EOF
