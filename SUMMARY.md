@@ -33,3 +33,7 @@
       * [Run Locally](ai/agents-and-copilots/claude-code/run-locally.md)
 * [Statistics](statistics/README.md)
   * [Outliers, IQR, Upper & Lower Bounds](statistics/outliers-iqr-upper-and-lower-bounds.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)
