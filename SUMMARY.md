@@ -2,7 +2,23 @@
 
 * [Application Design](README.md)
   * [Clean Architecture](application-design/clean-architecture/README.md)
-    * [Theory](application-design/clean-architecture/theory.md)
+    * [Theory](application-design/clean-architecture/theory/README.md)
+      * [Overview](application-design/clean-architecture/theory/overview.md)
+      * [Adapters](application-design/clean-architecture/theory/adapters.md)
+      * [Repositories](application-design/clean-architecture/theory/repositories.md)
+      * [Infrastructure](application-design/clean-architecture/theory/infrastructure.md)
+      * [Data Access Layer](application-design/clean-architecture/theory/data-access-layer.md)
+      * [Application](application-design/clean-architecture/theory/application.md)
+      * [Domain](application-design/clean-architecture/theory/domain.md)
+      * [API Layer](application-design/clean-architecture/theory/api-layer.md)
+      * [Messaging](application-design/clean-architecture/theory/messaging.md)
+      * [Caching](application-design/clean-architecture/theory/caching.md)
+      * [Logging & Monitoring](application-design/clean-architecture/theory/logging-and-monitoring.md)
+      * [Security](application-design/clean-architecture/theory/security.md)
+      * [Background Jobs](application-design/clean-architecture/theory/background-jobs.md)
+      * [UI / Presentation](application-design/clean-architecture/theory/ui-presentation.md)
+      * [Testing](application-design/clean-architecture/theory/testing.md)
+      * [DevOps](application-design/clean-architecture/theory/devops.md)
   * [Threads, Cores, and Async in .NET Core](application-design/threads-cores-and-async-in-.net-core.md)
   * [Wishful-Search-NLP Search for Complex JSON](application-design/wishful-search-nlp-search-for-complex-json.md)
 * [DevOps](devops/README.md)
@@ -34,6 +50,7 @@
 * [Statistics](statistics/README.md)
   * [Outliers, IQR, Upper & Lower Bounds](statistics/outliers-iqr-upper-and-lower-bounds.md)
 
-## Group 1
+## Project Prism
 
-* [Page 1](group-1/page-1.md)
+* [Project Atlas](project-prism/project-atlas/README.md)
+  * [Junk - Notes](project-prism/project-atlas/junk-notes.md)

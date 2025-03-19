@@ -1,0 +1,16 @@
+Layer,Purpose
+1. Domain Layer,"Encapsulates business logic, entities, and domain events."
+2. Application Layer,"Defines use cases, CQRS commands/queries, and orchestrates business logic."
+3. Core Interfaces Layer,"Holds repository contracts, domain services, and shared logic."
+4. Repository Layer,Provides data access abstraction via interfaces.
+5. Infrastructure Layer,"Implements repositories, external API clients, logging, and persistence mechanisms."
+6. Data Access Layer,"Handles raw database interactions (e.g., EF Core, Dapper, SQL)."
+7. API Layer,"Handles public API requests, authentication, versioning, and middleware."
+8. Messaging Layer,Manages event-driven communication via message queues like RabbitMQ/Kafka.
+9. Caching Layer,"Optimizes performance using Redis, MemoryCache, or distributed caching."
+10. Logging & Monitoring Layer,"Tracks application logs, errors, and performance metrics."
+11. Security Layer,"Manages authentication, authorization, encryption, and access control."
+12. Background Jobs Layer,"Executes scheduled or long-running background tasks (e.g., Hangfire, Quartz.NET)."
+13. UI / Presentation Layer,"Handles front-end rendering via Blazor, React, Angular, or MVC Views."
+14. Testing Layer,"Contains unit tests, integration tests, and automated testing frameworks."
+15. DevOps Layer,"Handles CI/CD pipelines, containerization (Docker), and infrastructure as code."

@@ -1,5 +1,7 @@
 # Clean Architecture
 
+{% embed url="https://dev.to/3bdelrahman/understanding-layers-tiers-and-n-tier-architecture-in-application-development-1hlb" %}
+
 {% embed url="https://www.patreon.com/milanjovanovic" %}
 
 {% embed url="https://www.milanjovanovic.tech/pragmatic-clean-architecture" %}
